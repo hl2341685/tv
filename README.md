@@ -1,7 +1,7 @@
 # FreedDTV
-![](http://www.sharerw.com/zb_users/upload/2020/12/202012281018296676578.jpg "")
+![](https://gitee.com/gyhxx/pic/raw/master/freedtv/1.png "")
 
-![](http://www.sharerw.com/zb_users/upload/2020/12/202012281018297430093.jpg "")
+![](https://gitee.com/gyhxx/pic/raw/master/freedtv/2.png "")
 #### 介绍
 Free DTV 外链接口
 

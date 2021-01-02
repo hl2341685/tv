@@ -210,8 +210,8 @@
     },
     {
       "id": 1,
-      "name": "哎旦影视",
-      "url": "https://www.lovedan.net/api.php/provide/vod/at/xml/?ac=videolist&pg=1",
+      "name": "被窝影视",
+      "url": "https://www.beiwoysw.com/api.php/provide/vod/at/xml",
       "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&泰国剧,30",
       "click": true,
       "wePlus": {}

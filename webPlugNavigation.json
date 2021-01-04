@@ -56,7 +56,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.stui-pannel_bd",  //缩短抓取区域
+            "mainCss": "div.stui-pannel_bd.col-pd.clearfix",  //缩短抓取区域
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -85,7 +85,7 @@
             "isImgAttr": true,  //取图片属性值
             "isNameAttr": true, //去名称属性值
             "isUrlAttr": true,  //取详情地址属性值
-            "mainCss": "ul.stui-vodlist.clearfix", //影视列表    重点!!!!
+            "mainCss": "ul.stui-content__playlist.clearfix", //影视列表    重点!!!!
             "mainListIndex": 0, //取第几个列表                   重点!!!
             "nameAttr": "title", //取名称属性值
             "nameCss": "a", //取名称标签                     !!!!!!!!!!!!!!!!
@@ -110,7 +110,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.stui-pannel_bd.col-pd.clearfix",   //搜索地址
+            "mainCss": "ul.stui-content__playlist.clearfix",   //搜索地址
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -213,7 +213,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.panel.panel-default.resource-list",
+            "mainCss": "div.panel.panel-default.resource-list",  //剧集选集列表
             "mainIndex": 0,
             "regIndexList": [
               0

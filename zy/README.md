@@ -9,4 +9,4 @@ ZYPlayer是一款基于electron开发的一款播放器，能一键搜索全网�
 ### 直播源在线导入地址
 #### https://gitee.com/gyhxx/freedtv/raw/master/zy/zhibo.m3u
 
-## Pc版本可下载到本地再导入
+## Pc版本可下载到本地再导入!

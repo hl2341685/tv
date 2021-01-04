@@ -56,7 +56,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.stui-pannel_hd",
+            "mainCss": "ul.stui-vodlist.clearfix",  //缩短抓取区域
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -71,46 +71,46 @@
             ]
           },
           "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
+            "isKWInUrl": false,  //无视
+            "isWebPlay": false,  //无视
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
+            "descCss": "span.pic-text.text-right",  //描述标签
+            "descIndex": 0,  //第几个描述标签
+            "hasImgUrlPrefix": true,  //图片地址是否有前缀
+            "hasUrlPrefix": false,   //链接是否有前缀
+            "imgAttr": "data-original", //去属性值(图片地址)
+            "imgCss": "a",  //图片在哪个标签里
+            "imgIndex": 0,  //图片在第几个标签里
+            "isDescAttr": false, //描述是否取属性值
+            "isImgAttr": true,  //取图片属性值
+            "isNameAttr": true, //去名称属性值
+            "isUrlAttr": true,  //取详情地址属性值
+            "mainCss": "ul.stui-vodlist.clearfix", //影视列表    重点!!!!
+            "mainListIndex": 0, //取第几个列表                   重点!!!
+            "nameAttr": "title", //取名称属性值
+            "nameCss": "a", //取名称标签                     !!!!!!!!!!!!!!!!
+            "nameIndex": 0, //取第几个                      !!!!!!!!!!!!!!!!!!!!!!
+            "searchListCss": "li", //影视列表个影视        !!!!!!!!!!!!!!!!!!!!
+            "urlAttr": "href", //取影视详情url值          !!!!!!!!!!!!!!!!!!!!!!!!!
+            "urlCss": "a", //取影视详情签名              !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            "urlIndex": 0 //取第几个值                    !!!!!!!!!!!!!!!!!!!
           },
           "search": {
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "pic-text.text-right",
+            "descCss": "pic-text.text-right",       //描述标签
             "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
+            "hasImgUrlPrefix": true,               //图片地址是否有前缀
+            "hasUrlPrefix": false,              //url链接是否有前缀
             "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
+            "imgCss": "a",                      //图片在哪个标签里
+            "imgIndex": 0,                      //图片在第几个标签里
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.stui-header_search",
+            "mainCss": "div.stui-pannel_bd.col-pd.clearfix",   //搜索地址
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",

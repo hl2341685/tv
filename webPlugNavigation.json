@@ -56,7 +56,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.stui-vodlist.clearfix",  //缩短抓取区域
+            "mainCss": "div.stui-pannel_bd",  //缩短抓取区域
             "mainIndex": 0,
             "regIndexList": [
               0

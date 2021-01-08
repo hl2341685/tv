@@ -4,10 +4,10 @@
       "name": "常用",
       "data": [
         {
-          "name": "更新日志",
+          "name": "自用备忘录",
           "type": "app://updateInfo",
           "pic": "",
-          "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html"
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/updata.html"
         },
         {
           "name": "小说阅读",
@@ -15,12 +15,7 @@
           "pic": "",
           "url": "http://www.baidu.com"
         },
-        {
-          "name": "口令查券",
-          "type": "app://chaquan",
-          "pic": "",
-          "url": "http://www.baidu.com"
-        },
+
         {
           "name": "自定义网址",
           "type": "app://custom",
@@ -74,11 +69,133 @@
           "pic": "https://egame.qq.com/favicon.ico",
           "url": "https://cdn.egame.qq.com/pgg-play/module/livelist.html?layoutid=2000000110"
         },
+        
         {
-          "name": "蓝光高清",
+          "name": "萝卜电影（荐）",
           "type": "app://customWeb",
           "pic": "1",
-          "url": "https://www.magedn.com/"
+          "url": "http://m.luob.app/"
+        },
+        {
+          "name": "哇兴影院（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://v.waxz.top/index.php"
+        },
+        {
+          "name": "影映剧场（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.acmdy.com/"
+        },
+        {
+          "name": "菠萝电影（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.boluolm.com/"
+        },
+        {
+          "name": "木瓜影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.d7ys.com/"
+        },
+        {
+          "name": "豌豆影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.wandouys.com/"
+        },
+        {
+          "name": "555y影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.555yy.cc/"
+        },
+        {
+          "name": "ADC电影网（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.adcmove.com/"
+        },
+        {
+          "name": "冰冰影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.bjnbiot.com/"
+        },
+        {
+          "name": "她的电影网（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.tadedy.com/"
+        },
+        {
+          "name": "飞飞影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.feifei6.com/"
+        },
+        {
+          "name": "八度看片（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.8dkp.com/"
+        },
+        {
+          "name": "青苹果影院（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.vd6.cc/"
+        },
+        {
+          "name": "影视之家（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.743718.com/"
+        },
+        {
+          "name": "乐享影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.lexiangys.com/"
+        },
+        {
+          "name": "私家影院（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.97822.com/"
+        },
+        {
+          "name": "私家影院（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.97822.com/"
+        },
+        {
+          "name": "麻雀视频（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://mqtv.cc/"
+        },
+        
+        {
+          "name": "牛逼影院（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://v.lree.cn/"
+        },
+        {
+          "name": "蓝莓影院（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.lanmeiys.com/"
+        },
+        {
+          "name": "蓝光高清（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://v.waxz.top/index.php/"
         },
         {
           "name": "低端影视",
@@ -93,7 +210,7 @@
           "url": "https://www.novipnoad.com/"
         },
         {
-          "name": "独播库",
+          "name": "独播库（荐）",
           "type": "app://customWeb",
           "pic": "http://www.baidu.com/aaa.jpg",
           "url": "https://www.duboku.net/&&&ads"
@@ -105,7 +222,7 @@
           "url": "https://www.7xiady.cc/&&&dlads"
         },
         {
-          "name": "9亿看看",
+          "name": "9亿看看（荐）",
           "type": "app://customWeb",
           "pic": "http://www.baidu.com/aaa.jpg",
           "url": "http://www.9ekk.com/&&&hlgglm,xunlei,2526game,68710266"
@@ -126,10 +243,10 @@
           "name": "蒙面大侠",
           "type": "app://customWeb",
           "pic": "https://www.mengmiandaxia.cn/favicon.ico",
-          "url": "https://www.mengmiandaxia.cn/"
+          "url": "https://mengmiandaxia.com/"
         },
         {
-          "name": "xijingTv",
+          "name": "xijingTv（荐）",
           "type": "app://customWeb",
           "pic": "http://img.ilxdh.com/navig/2020-04-13/1586786828_6785.png",
           "url": "http://xijing.tv/"
@@ -165,6 +282,60 @@
           "url": "https://www.shenma4480.com/&&&guominziben"
         },
         {
+          "name": "4K影院（荐）",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "http://www.kkkkwu.com/"
+        },
+        {
+          "name": "美剧虾",
+          "type": "app://customWeb",
+          "pic": "https://ae01.alicdn.com/kf/H0123535eca5b4cc58eeab2f1b6f292a9X.png",
+          "url": "http://www.meijuxia.net/"
+        },
+        {
+          "name": "天尊影视",
+          "type": "app://customWeb",
+          "pic": "https://p.pstatp.com/origin/137dc0001c7ff8a69304e",
+          "url": "https://www.tianzun.net/"
+        },
+        {
+          "name": "追加剧猫",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "http://www.zjmao.com/"
+        },
+        {
+          "name": "在家影视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://www.zxzj.me/"
+        },
+        {
+          "name": "novipnoad影视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://www.novipnoad.com/"
+        },
+        {
+          "name": "私人影视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "http://shoujizhan.cn/"
+        },
+        {
+          "name": "999影视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "http://www.btzj.cc/"
+        },
+        {
+          "name": "magedn影视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://www.magedn.com/"
+        },
+        {
           "name": "94神马",
           "type": "app://customWeb",
           "pic": "http://www.9rmb.com/favicon.ico",
@@ -183,22 +354,100 @@
           "url": "https://www.edu-hb.com/&&&efacepop,ff01s"
         },
         {
-          "name": "哔嘀影院",
+          "name": "哔嘀影院（荐）",
           "type": "app://customWeb",
           "pic": "1",
           "url": "https://bde4.com/&&&2qu92fhtx4ff,jingteinv,xhq9mt12cf5v,823262290.gif"
         },
         {
-          "name": "宅看影院",
+          "name": "奈飞影院(格式有问题）",
           "type": "app://customWeb",
           "pic": "1",
-          "url": "https://www.zhaikanys.com/&&&efacepop,ff01s"
+          "url": "https://www.nfmovies.com/"
         },
         {
           "name": "电玩人高清",
           "type": "app://customWeb",
           "pic": "1",
           "url": "http://www.ameiju.net/&&&efacepop,ff01s"
+        },
+        {
+          "name": "欧亚影视",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.oy37.com/"
+        },
+        {
+          "name": "新6V影视",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.66s.cc/"
+        },
+        {
+          "name": "电影盒子",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.tv5box.com/"
+        },
+        {
+          "name": "TVB云播",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.hktvyb.com/"
+        },
+        {
+          "name": "樱花动漫",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.yhdm.io/"
+        },
+        {
+          "name": "阿房影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.bwl87.com/"
+        },
+        {
+          "name": "极品影视（荐）",
+          "type": "1",
+          "pic": "1",
+          "url": "https://www.jpysvip.net"
+        },
+        {
+          "name": "奈飞星（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.nfstar.net/"
+        },
+        {
+          "name": "星球影视（荐）",
+          "type": "1",
+          "pic": "1",
+          "url": "https://starplay.top"
+        },
+        {
+          "name": "素白白影视（荐）",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.subaibai.com/"
+        },
+        {
+          "name": "乌龟影视",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.wuguiyy.com/"
+        },
+        {
+          "name": "zzzfun影视",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.zzzfun.com/"
+        },
+        {
+          "name": "bttwo影视",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.bttwo.com/"
         },
         {
           "name": "宅看影视",
@@ -213,6 +462,12 @@
           "url": "https://www.tcmove.com/&&&site:12443"
         },
         {
+          "name": "VIP影院",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://www.vipyy666.com/"
+        },
+        {
           "name": "爱美剧",
           "type": "app://customWeb",
           "pic": "http://img.ilxdh.com/navig/2020-04-13/1586787161_1363.ico",
@@ -223,7 +478,239 @@
           "type": "app://customWeb",
           "pic": "http://www.meijuniao.com/favicon.ico",
           "url": "http://m.meijuniao.com/&&&ae01.alicdn,app/"
+        },
+        {
+          "name": "阿里云资源站（荐）",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/4k7AozQ4",
+          "url": "http://www.cqzyw.net:88"
+        },
+        {
+          "name": "简影（荐）",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/gj5zXAYG",
+          "url": "https://tv.syrme.top"
+        },
+        {
+          "name": "孤单影院",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/8loQEYD4",
+          "url": "https://www.hanmiys.com/"
+        },
+        {
+          "name": "555电影（荐）",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/8Br5eyd8",
+          "url": "https://www.o8tv.com"
+        },
+        {
+          "name": "NO视频",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/G7ooRk6G",
+          "url": "https://www.novipnoad.com"
+        },
+        {
+          "name": "片库",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/GWNNvJP8",
+          "url": "https://www.pianku.li"
+        },
+        {
+          "name": "黑白直播",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/g6Yn2vzG",
+          "url": "https://m.heibaizhibo.com"
+        },
+        {
+          "name": "jrkan.com",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/g50DkN2G",
+          "url": "http://jrkan.com"
+        },
+        {
+          "name": "DolbyTv",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/4NkjNoN8",
+          "url": "https://www.dolbytv.com"
+        },
+        {
+          "name": "狗带TV",
+          "type": "app://customWeb",
+          "pic": "https://tlgur.com/d/4k7xVAj4",
+          "url": "http://xiguayyv1.com"
+        },
+
+        {
+          "name": "星辰影院",
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.vodxc.in"
+        },
+        {
+          "name": "电视迷",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://m.dsmi.cc"
+        },
+        {
+          "name": "老豆瓣",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.laodouban.com"
+        },
+
+        {
+          "name": "奇米奇米动漫",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.qimiqimi.co"
+        },
+        {
+          "name": "蜗牛视频",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.snailok.com"
+        },
+        {
+          "name": "维赞影院",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://abcoa.cn"
+        },
+        {
+          "name": "思古影视",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://v.sigu.me/"
+        },
+        {
+          "name": "天龙影院",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.tl86tv.com"
+        },
+        {
+          "name": "电影蜜蜂",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.idybee.com"
+        },
+        {
+          "name": "91美剧网",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://91mjw.com"
+        },  
+        {
+          "name": "九八零影院",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.kp980.com"
+        },  
+        {
+          "name": "看片狂人",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.kpkuang.com"
+        },  
+        {
+          "name": "影碟视界",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://dvdhd.me"
+        },
+        {
+          "name": "66影视网",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.66e.cc"
+        },
+        {
+          "name": "速影TV",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://52suyingtv.xyz"
+        },
+        {
+          "name": "治愈影视网",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://wx.healers.top"
+        },
+        {
+          "name": "粤视频",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.yuesp.com"
+        },        
+       
+        {
+          "name": "4K电影院（荐）",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://4kdy.net"
+        },        
+        {
+          "name": "发烧屋",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.hifiwu.com"
+        },
+        {
+          "name": "优播网",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://yobo.tv"
+        },
+        {
+          "name": "全能影视",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://www.qnvod.net"
+        },
+        {
+          "name": "JableTV",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://jable.tv"
+        },
+        {
+          "name": "Nice影视网",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "https://www.nicemov.com"
+        },        {
+          "name": "嘀哩影视",
+          
+          "type": "app://customWeb",
+          "pic": "1",
+          "url": "http://diliktv.com"
         }
+
+
+
       ]
     },
     {
@@ -254,17 +741,130 @@
           "url": "https://www.yy.com/"
         },
         {
-          "name": "直播频道1",
+          "name": "电视频道1（github）",
           "type": "app://m3u",
           "pic": "",
           "url": "https://iptv-org.github.io/iptv/languages/zho.m3u"
         },
         {
-          "name": "直播频道2",
+          "name": "电视频道2(gitee)",
           "type": "app://m3u",
           "pic": "",
           "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u"
+         },
+        {
+          "name": "电视频道3(gitee)",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/aston314/freed/raw/master/tv/live.m3u"
+        },
+        {
+          "name": "电视频道4(tv.sason)",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "http://tv.sason.xyz/new.m3u"
+        },
+        {
+          "name": "电视频道5(tv.sason)",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "http://tv.sason.xyz/gt.m3u"
+        },
+
+        {
+          "name": "wpcm央卫",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/1233.m3u"
+        },
+        {
+          "name": "wpcm影视",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/1231.m3u"
+        },
+        {
+          "name": "wpcm国际",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/1232.m3u"
+        },
+        {
+          "name": "国内外频道（比较全1）",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u"
+        },
+        {
+          "name": "国内外频道（比较全2）",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/all.m3u"
+        },
+        {
+          "name": "NewTv",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/newtv.m3u"
+        },
+        {
+          "name": "咪咕体育",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/migu.m3u"
+        },
+        {
+          "name": "百世体育",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/bsty.m3u"
+        },
+        {
+          "name": "SITV",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/sitv.m3u"
+        },
+        {
+          "name": "IHOT",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/ihot.m3u"
+        },
+        {
+          "name": "CIBN",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/cibn.m3u"
+        },
+        {
+          "name": "4K频道",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/dyanj311/iptv/raw/master/4K%E9%A2%91%E9%81%93.m3u"
+        },
+        {
+          "name": "IPTV",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/dyanj311/iptv/raw/master/IPTV.m3u"
+        },
+        {
+          "name": "高清影视",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/dyanj311/iptv/raw/master/%E9%AB%98%E6%B8%85%E5%BD%B1%E8%A7%86.m3u"
+        },
+         {
+          "name": "临时测试",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/wpcmzjk/tv/raw/master/lscs.m3u"
         }
+
+
+
+
       ]
     },
     {

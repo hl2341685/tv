@@ -44,9 +44,9 @@
         "name": "电视直播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
         //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
-        "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
+        "url": "https://gitee.com/wpcmzjk/tv/raw/master/1231.txt",
         "color": "11",
-        "type": "app://m3u",
+        "type": "app://txt",
         "show": true
       },
       {

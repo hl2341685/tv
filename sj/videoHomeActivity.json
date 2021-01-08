@@ -1,16 +1,5 @@
 {
   "data": {
-   // "banner": [
-   //   {
-   //     "id": 1,
-   //     "name": "717",
-   //     "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN018FpU8s2C4PVB9ZNKP_!!913168420.png",
-   //     "url": "https://s.click.ele.me/svfrCuu",
-   //     "color": "#00000000",
-   //     "type": "url://taobao",
-   //     "show": false
-   //   }
-   // ],
     "activity": [
       {
         "id": 1,
@@ -43,10 +32,9 @@
         "id": 2,
         "name": "电视直播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
-        "url": "https://gitee.com/wpcmzjk/tv/raw/master/1231.txt",
+        "url": "https://gitee.com/gyhxx/freedtv/raw/master/zy/zhibo.m3u",
         "color": "11",
-        "type": "app://txt",
+        "type": "app://m3u",
         "show": true
       },
       {

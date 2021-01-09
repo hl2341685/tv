@@ -52,7 +52,7 @@
         "id": 2,
         "name": "电视直播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://gitee.com/gyhxx/freedtv/raw/master/zy/zhibo.m3u",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true

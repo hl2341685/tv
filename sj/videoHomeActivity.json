@@ -1,5 +1,25 @@
 {
   "data": {
+    "banner": [
+      {
+        "id": 1,
+        "name": "717",
+        "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN018FpU8s2C4PVB9ZNKP_!!913168420.png",
+        "url": "https://s.click.ele.me/svfrCuu",
+        "color": "#00000000",
+        "type": "url://taobao",
+        "show": false
+      },
+      {
+        "id": 1,
+        "name": "717",
+        "pic": "http://img-haodanku-com.cdn.fudaiapp.com/4_1594899664593",
+        "url": "https://s.click.taobao.com/4BBBTyu",
+        "color": "#FFFFFF",
+        "type": "url://taobao",
+        "show": false
+      }
+    ],
     "activity": [
       {
         "id": 1,

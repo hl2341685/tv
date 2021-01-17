@@ -50,8 +50,8 @@
       },
       {
         "id": 2,
-        "name": "电视直播",
-        "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
+        "name": "电视直播(wpcm)",
+        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/103.jpg",
         "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u",
         "color": "11",
         "type": "app://m3u",
@@ -59,7 +59,7 @@
       },
       {
         "id": 2,
-        "name": "24小时轮播",
+        "name": "影视轮播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
         "url": "https://gitee.com/dyanj311/iptv/raw/master/%E9%AB%98%E6%B8%85%E5%BD%B1%E8%A7%86.m3u",
         "color": "11",
@@ -70,22 +70,38 @@
         "id": 3,
         "name": "云插件",
         "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
-        "url": "",
+        "url": "https://s.click.taobao.com/kNqATyu",
         "color": "1",
         "type": "app://webPlug",
+        "show": false
+      },
+      {
+        "id": 3,
+        "name": "世界直播(wpcm)",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p2648.jpg",
+        "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/all.m3u",
+        "color": "1",
+        "type": "app://m3u",
         "show": true
       },
       {
         "id": 3,
-        "name": "动画电影",
+        "name": "安博代理(测试)",
         "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p2648.jpg",
-        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/donghuadianying.json",
-        "color": "1",
-        "type": "app://gitJson",
-        "show": false
+        "url": "https://gitee.com/wpcmzjk/tv/raw/master/abdl.m3u",
+        "color": "2",
+        "type": "app://m3u",
+        "show": true
       },
-
-
+      {
+        "id": 3,
+        "name": "IPTV(wpcm)",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p2648.jpg",
+        "url": "https://gitee.com/tyy85550424/IPTV/raw/master/IPTV.m3u8",
+        "color": "2",
+        "type": "app://m3u",
+        "show": true
+      },
       {
         "id": 1,
         "name": "",

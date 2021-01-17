@@ -2535,10 +2535,10 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "h4.stui-vodlist__title", //目标名称描述
+            "descCss": "li:nth-child(1)", //目标名称描述
             "descIndex": 0,
             "hasUrlPrefix": false,               //url链接是否有前缀
-            "imgAttr": "data-original",
+            "imgAttr": "data-original",          //图片地址去属性
             "imgCss": "a",
             "imgIndex": 0,
             "isDescAttr": false,

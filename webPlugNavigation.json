@@ -2510,7 +2510,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "h4.stui-vodlist__title", //目标名称描述
+            "descCss": "div.detail", //目标名称描述
             "descIndex": 0,                      //第几个描述标签
             "hasUrlPrefix": false,               //url链接是否有前缀
             "hasImgUrlPrefix": false,             //图片地址是否有前缀
@@ -2535,7 +2535,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "div.detail", //目标名称描述
+            "descCss": "h4.stui-vodlist__title", //目标名称描述
             "descIndex": 0,
             "hasUrlPrefix": false,               //url链接是否有前缀
             "imgAttr": "data-original",          //图片地址去属性

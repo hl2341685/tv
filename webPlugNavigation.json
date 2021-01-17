@@ -221,7 +221,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.myui-panel_bd.clearfix",
+            "mainCss": "div.myui-panel-box.clearfix",  
             "mainIndex": 0,
             "regIndexList": [
               0

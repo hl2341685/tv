@@ -2535,24 +2535,24 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "div.detail",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "ul > li",
-            "urlAttr": "href",
-            "urlCss": "a",
+            "descCss": "span.pic-text.text-right",  //目标名称描述
+            "descIndex": 0,           //第几个描述标签
+            "hasUrlPrefix": false,    //url链接是否有前缀
+            "imgAttr": "data-original", //图片地址去属性
+            "imgCss": "a",               //图片在哪个标签里
+            "imgIndex": 0,              //图片在第几个标签里
+            "isDescAttr": false,        //描述是否取属性
+            "isImgAttr": true,          //取图片属性
+            "isNameAttr": true,           //取图片名称
+            "isUrlAttr": true,             //取详情地址
+            "mainCss": "ul.stui-vodlist.clearfix",      //影视列表
+            "mainListIndex": 0,                         //取第几个列表
+            "nameAttr": "title",                       //取名称属性 (影片名称)
+            "nameCss": "a",                      //取名称标签a class
+            "nameIndex": 0,                      //取第几个
+            "searchListCss": "ul > li",           //取影视列表个影视
+            "urlAttr": "href",                   //取影视详情url
+            "urlCss": "a",                       //取详情所在标签a href=
             "urlIndex": 0
           },
           "video": {

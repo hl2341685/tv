@@ -56,7 +56,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.panel.panel-default.resource-list",
+            "mainCss": "div.panel.panel-default.resource-list",  ///html/body/div[2]/div[2]/div
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2545,12 +2545,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.stui-pannel_bd",
+            "mainCss": "ul.stui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0

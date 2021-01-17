@@ -170,7 +170,7 @@
         "search_url": "https://www.nfstar.net/vodsearch/-------------/?wd={kw}",
         "nav_url": "https://www.nfstar.net/vodtype/navCate-navPage.html",
        // "cate_url": "https://www.nfmovies.com/search.php?page=catePage&searchtype=5&tid=cateNav&area=cateArea&year=cateYear",
-        "cate_url": "https://www.nfstar.net/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "cate_url": "https://www.nfstar.net/vodshow/cateNav-cateArea--cateCate--------catePage---cateYear.html",
         "web_name": "奈飞影视",
         "kw": "wd",
         "params": [

@@ -28,7 +28,7 @@
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/day_movies.json",
         "color": "11",
         "type": "app://gitJson",
-        "show": true
+        "show": false
       },
       {
         "id": 1,
@@ -46,13 +46,13 @@
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html",
         "color": "11",
         "type": "app://updateInfo",
-        "show": true
+        "show": false
       },
       {
         "id": 2,
         "name": "电视直播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
+        "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true
@@ -61,9 +61,9 @@
         "id": 2,
         "name": "24小时轮播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/youku.json",
+        "url": "https://gitee.com/dyanj311/iptv/raw/master/%E9%AB%98%E6%B8%85%E5%BD%B1%E8%A7%86.m3u",
         "color": "11",
-        "type": "app://gitJson",
+        "type": "app://m3u",
         "show": true
       },
       {

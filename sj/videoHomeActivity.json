@@ -73,7 +73,7 @@
         "url": "https://s.click.taobao.com/kNqATyu",
         "color": "1",
         "type": "app://webPlug",
-        "show": false
+        "show": true
       },
       {
         "id": 3,
@@ -100,7 +100,7 @@
         "url": "https://gitee.com/tyy85550424/IPTV/raw/master/IPTV.m3u8",
         "color": "2",
         "type": "app://m3u",
-        "show": true
+        "show": false
       },
       {
         "id": 1,

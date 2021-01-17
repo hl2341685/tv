@@ -2516,7 +2516,7 @@
             "hasImgUrlPrefix": false,             //图片地址是否有前缀
             "imgAttr": "data-original",          //图片地址去属性
             "imgCss": "a",                       //图片在哪个标签里
-            "imgIndex": 3,                       //图片在第几个标签里
+            "imgIndex": 0,                       //图片在第几个标签里
             "isDescAttr": false,                 //描述是否取属性
             "isImgAttr": true,                   //取图片属性
             "isNameAttr": true,                  //取图片名称
@@ -2535,7 +2535,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "h4.stui-vodlist__title", //目标名称描述
+            "descCss": "div.detail", //目标名称描述
             "descIndex": 0,
             "hasUrlPrefix": false,               //url链接是否有前缀
             "imgAttr": "data-original",          //图片地址去属性

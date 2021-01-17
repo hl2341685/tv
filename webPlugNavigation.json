@@ -2535,8 +2535,8 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "li:nth-child(1)", //目标名称描述
-            "descIndex": 0,
+            "descCss": "h4.stui-vodlist__title", //目标名称描述
+            "descIndex": 1,
             "hasUrlPrefix": false,               //url链接是否有前缀
             "imgAttr": "data-original",          //图片地址去属性
             "imgCss": "a",

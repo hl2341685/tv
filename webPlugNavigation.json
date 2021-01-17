@@ -1251,7 +1251,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainCss": "div.stui-pannel_bd.col-pd.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",

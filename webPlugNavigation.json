@@ -2439,7 +2439,7 @@
     },
     {
       "name": "奇侠高清",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
+      "pic": "http://dwz.date/dVSh",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
@@ -2449,7 +2449,7 @@
         "search_url": "https://www.7xiady.cc/search/-------------.html?wd={kw}",
         "nav_url": "https://www.7xiady.cc/type/navCate-navPage/",
         "cate_url": "https://www.7xiady.cc/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "完美看看影视",
+        "web_name": "奇侠高清",
         "kw": "wd",
         "params": [
           {

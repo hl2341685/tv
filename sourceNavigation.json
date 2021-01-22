@@ -4,7 +4,7 @@
     {
       "name": "央卫(选IKJ解码)",
       "pic": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=608832685,1648915489&fm=11&gp=0.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
+      "url": "https://gitee.com/gyhxx/freedtv/raw/master/live.m3u",
       "type": "m3u",
       "subTitle": "自用，严禁分享，商用",
       "click": true,

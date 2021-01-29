@@ -25,7 +25,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/newtv.m3u",
       "type": "m3u",
       "subTitle": "自用，严禁分享，商用",
-      "click": true,
+      "click": false,
       "webPlus": {}
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/yy.m3u",
       "type": "m3u",
       "subTitle": "自用，严禁分享，商用",
-      "click": true,
+      "click": false,
       "webPlus": {}
     },
     {
@@ -55,15 +55,6 @@
       "click": true,
       "webPlus": {}
     },
-      {
-      "name": "港澳国际(选原生解码)",
-      "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic27.nipic.com%2F20130302%2F10431051_145401078000_2.jpg&refer=http%3A%2F%2Fpic27.nipic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611911213&t=184aa95bc519ad8df8bbbbbd6d27e078",
-      "url": "https://gitee.com/wpcmzjk/tv/raw/master/1231gj.txt",
-      "type": "txt",
-      "subTitle": "TV",
-      "click": true
-    },
-    
     {
       "name": "dyanj311(选原生解码)",
       "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/38.jpg",
@@ -78,7 +69,7 @@
       "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/all.m3u",
       "type": "m3u",
       "subTitle": "TV",
-      "click": true
+      "click": false
     },
     {
       "name": "国际全面2(选原生解码)",
@@ -86,7 +77,7 @@
       "url": "https://gitee.com/customiedtv/tv/raw/master/News%20TV.txt",
       "type": "txt",
       "subTitle": "TV",
-      "click": true
+      "click": false
     },
     {
       "name": "Youku轮播(选IKJ解码)",
@@ -94,7 +85,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/youku.m3u",
       "type": "m3u",
       "subTitle": "自用，严禁分享，商用",
-      "click": true,
+      "click": false,
       "webPlus": {}
     },
     {

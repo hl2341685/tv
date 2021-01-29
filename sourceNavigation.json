@@ -89,7 +89,7 @@
       "webPlus": {}
     },
     {
-      "name": "CIBN轮播(选IKJ解码)",
+      "name": "CIBN轮播(选IJK解码)",
       "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/3.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/cibn.m3u",
       "type": "m3u",
@@ -107,7 +107,7 @@
       "webPlus": {}
     },
     {
-      "name": "电影轮播",
+      "name": "电影轮播(选IJK解码)",
       "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fmobile%2F2019-03-11%2F5c860ce444aee.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611911755&t=6d831b64211210fe76a30160865354cd",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
       "type": "txt",
@@ -118,7 +118,7 @@
       "webPlus": {}
     },
     {
-      "name": "电视轮播",
+      "name": "电视轮播(选IJK解码)",
       "pic": "https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D450%2C600/sign=adffe279ebf81a4c2667e4cde21a4c6f/b8014a90f603738d08bb5c2fb31bb051f919ecce.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电视轮播.txt",
       "type": "txt",
@@ -129,7 +129,7 @@
       "webPlus": {}
     },
     {
-      "name": "动漫轮播",
+      "name": "动漫轮播(选IJK解码)",
       "pic": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1461609254,3032093224&fm=26&gp=0.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/动漫轮播.json",
       "type": "gitJson",
@@ -137,7 +137,8 @@
       "click": false
     },
     {
-      "name": "综艺轮播",
+      "name": "综艺轮播(选IJK解码)",
+      "pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2032804702,1678610031&fm=26&gp=0.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.txt",
       "type": "txt",
       "subTitle": "",

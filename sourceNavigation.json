@@ -61,6 +61,7 @@
       "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u",
       "type": "m3u",
       "subTitle": "TV",
+      "decoder": 1,
       "click": true
     },
     {

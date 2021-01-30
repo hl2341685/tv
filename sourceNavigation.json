@@ -61,7 +61,7 @@
       "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u",
       "type": "m3u",
       "subTitle": "TV",
-      "decoder": 1,
+      "decoder": 0,
       "click": true
     },
     {
@@ -115,7 +115,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -126,7 +126,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -135,6 +135,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/动漫轮播.json",
       "type": "gitJson",
       "subTitle": "动漫轮播",
+      "decoder": 1,
       "click": false
     },
     {
@@ -145,7 +146,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -154,6 +155,7 @@
       "url": "https://gitee.com/kapion/tv/raw/master/per.txt",
       "type": "txt",
       "subTitle": "TV",
+      "decoder": 0,
       "click": false
     },
     {
@@ -170,6 +172,7 @@
       "url": "https://gitee.com/qq251736474/tv/raw/master/zxy.txt",
       "type": "txt",
       "subTitle": "TV",
+      "decoder": 0,
       "click": true
     }
   ]

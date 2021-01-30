@@ -111,7 +111,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
+            "mainCss": "div.myui-pannel_bd.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",

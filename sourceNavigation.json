@@ -20,12 +20,12 @@
       "webPlus": {}
     },
     {
-      "name": "NewTV(选IKJ解码)",
+      "name": "稳定轮播",
       "pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2032804702,1678610031&fm=26&gp=0.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/newtv.m3u",
       "type": "m3u",
       "subTitle": "自用，严禁分享，商用",
-      "click": false,
+      "click": true,
       "webPlus": {}
     },
     {

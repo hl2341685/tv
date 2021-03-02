@@ -7,13 +7,13 @@
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
       "ads": "",
-      "webUrl": "https://www.ak1080.com/",
+      "webUrl": "https://www.zhenbuka.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.ak1080.com/search/-------------.html?wd=",
-        "nav_url": "https://www.ak1080.com/type/navCate-navPage/",
-        "cate_url": "https://www.ak1080.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "search_url": "https://www.zhenbuka.com/search/-------------.html?wd=",
+        "nav_url": "https://www.zhenbuka.com/type/navCate-navPage/",
+        "cate_url": "https://www.zhenbuka.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "1080高清影视",
         "kw": "wd",
         "params": [

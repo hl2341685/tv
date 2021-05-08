@@ -1,16 +1,1480 @@
 
 {
   "data": [
+   
+
+{
+      "name": "下午茶影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "下午茶视蓝",
+      "subMobileTitle": "4.29值班练手",
+      "ads": "",
+      "webUrl": "http://www.xwcys.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "http://www.xwcys.com/",
+        "nav_url": "http://www.xwcys.com/index.php/vod/show/by/time/id/navCate/page/navPage.html",
+        "cate_url": "http://www.xwcys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "高清影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+
+
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "ul> li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.content_playlist.list_scroll.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic_text.text_right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.vodlist.vodlist_wi ",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic_text.text_right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.vodlist.vodlist_wi ",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+{
+      "name": "爱影视蓝光",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "爱影视蓝",
+      "subMobileTitle": "4.29值班练手",
+      "ads": "",
+      "webUrl": "https://www.2ys.co/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.2ys.co/",
+        "nav_url": "https://www.2ys.co/vodshow/navCate--------navPage---.html",
+        "cate_url": "https://www.2ys.co/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "高清影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "languangdianying",
+            "languangdianshiju",
+            "languangdongman",
+            "languangzongyi"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+
+
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "ul.num-list > li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.num-tab.playlist",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.qy-mod-label",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "src",
+            "imgCss": "div.qy-mod-link-wrap > a img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.lines-wrap > div",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "div.qy-mod-link-wrap > a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.qy-mod-label",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "src",
+            "imgCss": "img.qy-mod-cover",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "body > div.qy-animation-content > div.qy-mod-wrap > div > div.lines-wrap > div",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "div.qy-mod-link-wrap > a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+
+
+    {
+      "name": "淘剧吧",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "淘剧吧",
+      "subMobileTitle": "4.10练手",
+      "ads": "",
+      "webUrl": "http://itaojuba.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.gqkankan.com/",
+        "nav_url": "http://itaojuba.com/type/navCate-navPage.html",
+        "cate_url": "http://itaojuba.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "高清影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+
+
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "div#dianshijuid ul li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "#main > div > div > div.col-lg-wide-75.col-xs-1 > div:nth-child(3) > div",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-tag.pic-tag-b",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-tag.pic-tag-b",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+
+   
 
 
 
     {
-      "name": "①宅看影视（1.24修）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/zkh.png",
+      "name": "高清影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清速度",
+      "subMobileTitle": "3-20",
+      "ads": "",
+      "webUrl": "https://www.gqkankan.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.gqkankan.com/",
+        "nav_url": "https://www.gqkankan.com/style/navCate-navPage.html",
+        "cate_url": "http://vip.8kvod.com:888/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "高清影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "num1",
+            "num2",
+            "num3",
+            "num4"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+
+
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "div#playlist li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "html body div.container div.row div#playlist.stui-pannel.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.tag",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "html body div.container div.row div.stui-pannel.clearfix ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.tag",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "html body div.container div.row div.stui-pannel.clearfix ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+
+
+    {
+      "name": "4K影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "3.20",
+      "ads": "",
+      "webUrl": "https://www.4kdyc.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.4kdyc.com/vodsearch/-------------.html?wd={wd}&submit=",
+        "nav_url": "https://www.4kdyc.com/vodshow/navCate--------navPage---.html",
+        "cate_url": "https://www.4kdyc.com/http://vip.8kvod.com:888/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "4K影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺",
+            "体育"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3",
+            "32"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "div.playlist_full li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "html body.bstem div.container div.left_row.fl div#bofy.pannel.clearfix div.play_source div.play_list_box.hide.show div.playlist_full",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic_text.text_right.text_dy",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "html body div#show_page div.container div.row div.pannel.clearfix ul.vodlist.vodlist_wi",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic_text.text_right.text_dy",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "html body div#show_page div.container div.row div.pannel.clearfix ul.vodlist.vodlist_wi",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+
+    
+    {
+      "name": "荐-牛逼影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清速度快",
+      "subMobileTitle": "待调",
+      "ads": "",
+      "webUrl": "https://v.lree.cn/",
+      "webOpen": false,
+      "click": false,
+      "webPlus": {
+        "search_url": "https://v.lree.cn/search.php?wd={kw}",
+        "nav_url": "https://v.lree.cn/navCate.html?cat=all&area=all&year=all&act=all&rank=rankhot&pageno=navPage",
+        "cate_url": "https://v.lree.cn/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "牛逼影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "movie",
+            "tv",
+            "cartoon",
+            "variety"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "data-url",
+            "listItemCss": "li",
+            "listItemIndex": 0,
+            "mainCss": "div#video-api-select.am-dropdown ul#videoapi.am-dropdown-content",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.hint",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.am-container div.s-tab-main ul.am-avg-sm-3",
+            "mainListIndex": 0,
+            "nameAttr": "text()",
+            "nameCss": "p.title span.s1",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "body > div.container > div > div > div > div.stui-pannel_bd > ul",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+    {
+      "name": "荐-夜夜迷影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清速度快",
+      "subMobileTitle": "3.20",
+      "ads": "",
+      "webUrl": "http://yeyemi.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "http://yeyemi.com/index.php/vod/search.html?wd={kw}&submit=",
+        "nav_url": "http://yeyemi.com/index.php/vod/type/id/navCate/page/navPage.html",
+        "cate_url": "http://yeyemi.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "夜夜迷影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "body > div.container > div > div.col-lg-wide-75.col-xs-1 > div:nth-child(2) > div > div.stui-pannel_bd.col-pd.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "body > div.container > div > div > div > div.stui-pannel_bd > ul",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "body > div.container > div > div > div > div.stui-pannel_bd > ul",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+
+
+    {
+      "name": "2X-思古影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "3.12增",
+      "ads": "",
+      "webUrl": "https://www.siguyy.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.siguyy.com/{wd}-------------.html",
+        "nav_url": "https://www.siguyy.com/type/navCate-navPage.html",
+        "cate_url": "https://www.siguyy.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "思古影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "m",
+            "tv",
+            "ct",
+            "va"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "ul > li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.myui-content__list.sort-list.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+
+
+    {
+      "name": "23-真不卡",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "exo-3.12修",
+      "ads": "",
+      "webUrl": "https://www.zhenbuka.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.zhenbuka.com/vodsearch/-------------.html?wd=",
+        "nav_url": "https://www.zhenbuka.com/vodtype/navCate-navPage.html",
+        "cate_url": "https://www.zhenbuka.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "真不卡影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": true,
+          "isArea": true,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "ul > li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.stui-content__playlist.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+    {
+      "name": "①宅看影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "exo-高清快无筛选",
+      "subMobileTitle": "exo-3.12修",
       "ads": "",
       "webUrl": "https://www.zhaikanys.com",
       "webOpen": false,
@@ -29,7 +1493,7 @@
         ],
         "navHtml": {
           "name": [
-            "4K会员",
+            "电视剧",
             "动作片",
             "喜剧片",
             "爱情片",
@@ -42,7 +1506,7 @@
             "综艺"
           ],
           "cate": [
-            "20",
+            "2",
             "6",
             "7",
             "8",
@@ -76,7 +1540,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.playlist.clearfix",
+            "mainCss": "div.playlist_notfull",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -94,7 +1558,169 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
+            "descCss": "a > span.pack-prb > span",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a > div",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": false,
+            "isUrlAttr": true,
+            "mainCss": "div.hotgrow.eclist.listdh",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 1,
+            "searchListCss": "div > div",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "a > span.pack-prb > span",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a > div",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": false,
+            "isUrlAttr": true,
+            "mainCss": "div.hotgrow.eclist.listdh",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 1,
+            "searchListCss": "div > div",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+    {
+      "name": "35-泡饭影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "3.12修",
+      "ads": "",
+      "webUrl": "https://www.paofans.com",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
+        "nav_url": "https://www.paofans.com/show/navCate--------navPage---.html",
+        "cate_url": "https://www.paofans.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "蓝光高清",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "抖音电影",
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫"
+          ],
+          "cate": [
+            "36",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.hl-plays-list.hl-sort-list.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.hl-lc-1.remarks",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
@@ -105,7 +1731,7 @@
             "isImgAttr": true,
             "isNameAttr": false,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainCss": "ul.hl-vod-list.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -130,14 +1756,14 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media.clearfix#searchList",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
-            "urlCss": "a.btn.btn-sm.btn-warm",
+            "urlCss": "a",
             "urlIndex": 0
           },
           "video": {
@@ -180,19 +1806,19 @@
     },
 
     {
-      "name": "②VIP影院(不能搜）",
-      "pic": "https://tlgur.com/d/GJa6zKp8",
+      "name": "②VIP影院",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试中2.23）质量高",
+      "subMobileTitle": "3.12修",
       "ads": "",
-      "webUrl": "https://vip.sb/",
+      "webUrl": "https://bukaivip.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "http://gudanys.com/vodsearch/{kw}-------------.html",
-        "nav_url": "https://vip.sb/index.php/vod/show/id/navCate/page/navPage.html",
+        "nav_url": "https://bukaivip.com/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "VIP影院",
         "kw": "wd",
@@ -341,16 +1967,16 @@
       }
     },
     {
-      "name": "③美剧虫（蓝光）",
-      "pic": "",
+      "name": "③美剧虫",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "蓝光无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "wpcm1.24",
+      "subMobileTitle": "3.12修",
       "ads": "",
       "webUrl": "https://www.meijuchong.com/",
       "webOpen": false,
-      "click":true,
+      "click":false,
       "webPlus": {
         "search_url": "https://www.meijuchong.com/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://www.meijuchong.com/vodshow/navCate--------navPage---/",
@@ -431,8 +2057,8 @@
             "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round",
             "mainListIndex": 1,
             "nameAttr": "Text",
-            "nameCss": "a",
-            "nameIndex": 1,
+            "nameCss": "li > a.mo-situ-name.mo-fsxs-14px.mo-coxs-center.mo-comd-left.mo-wrap-arow",
+            "nameIndex": 0,
             "searchListCss":"ul > li ",
             "urlAttr": "href",
             "urlCss": "a",
@@ -503,7 +2129,7 @@
     },
     {
       "name": "④88影视",
-      "pic": "tlgur.com/d/Gbk3j2yg",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
@@ -668,11 +2294,11 @@
     
     {
       "name": "⑤大师兄",
-      "pic": "tlgur.com/d/Gbk3j2yg",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试2.25）质量高",
+      "subMobileTitle": "(2.25）质量高",
       "ads": "",
       "webUrl": "https://zz.ci/",
       "webOpen": false,
@@ -829,11 +2455,11 @@
     },
     {
       "name": "⑥电影蜜蜂",
-      "pic": "https://tlgur.com/d/gpzzaa18",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试中2.23）",
+      "subMobileTitle": "(测试中2.23）",
       "ads": "",
       "webUrl": "https://www.pianku.li/",
       "webOpen": false,
@@ -906,7 +2532,7 @@
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": true,
             "imgAttr": "src",
-            "imgCss": "img.waitpic",
+            "imgCss": " a > img.waitpic",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
@@ -988,11 +2614,11 @@
 
     {
       "name": "⑦jpysvip影视",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试1.25）质量高",
+      "subMobileTitle": "(测试1.25）质量高",
       "ads": "",
       "webUrl": "https://www.jpysvip.net/",
       "webOpen": false,
@@ -1149,15 +2775,15 @@
     },
     {
       "name": "⑧策池影视",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试中1.24）质量高",
+      "subMobileTitle": "(服务器关）",
       "ads": "",
       "webUrl": "https://www.wydcn.com/",
       "webOpen": false,
-      "click": true,
+      "click":false,
       "webPlus": {
         "search_url": "https://www.wydcn.com/search/-------------.html?wd={kw}",
         "nav_url": "https://www.wydcn.com/show/navCate--------navPage---.html",
@@ -1312,11 +2938,11 @@
 
     {
       "name": "⑨cokemv影视",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试中）质量高",
+      "subMobileTitle": "(测试中）质量高",
       "ads": "",
       "webUrl": "https://cokemv.cn",
       "webOpen": false,
@@ -1483,8 +3109,8 @@
     },
 
     {
-      "name": "⑩一只鱼(蓝光高清)",
-      "pic": "",
+      "name": "⑩一只鱼",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
@@ -1655,7 +3281,7 @@
 
     {
       "name": "⑾逗号影视",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -1839,12 +3465,12 @@
 
 
     {
-      "name": "⑿Netflix（4K+）",
-      "pic": "",
+      "name": "⑿Netflix",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "蓝光无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "wpcm1.24完成",
+      "subMobileTitle": "1.24完成",
       "ads": "",
       "webUrl": "https://www.o8tv.com/index.php",
       "webOpen": false,
@@ -2019,12 +3645,12 @@
 
 
     {
-      "name": "⒀4K屋（精简）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/4kw.png",
+      "name": "⒀4K屋",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "wpcm编辑",
+      "subMobileTitle": "高质量",
       "ads": "",
       "webUrl": "http://www.kkkkwu.cc/",
       "webOpen": false,
@@ -2199,11 +3825,11 @@
     },
     {
       "name": "⒁某瓜影院",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/ngys1.png",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "wpcm编辑",
+      "subMobileTitle": "高质量",
       "ads": "",
       "webUrl": "https://www.ooe.la/",
       "webOpen": false,
@@ -2362,12 +3988,12 @@
     },
 
     {
-      "name": "⒂飞鸭（蓝光）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/4ky.png",
+      "name": "⒂飞鸭",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "wpcm编辑",
+      "subMobileTitle": "高质量",
       "ads": "",
       "webUrl": "https://4kya.com",
       "webOpen": false,
@@ -2523,8 +4149,8 @@
       }
     },
     {
-      "name": "⒃COKEMV影视(蓝光修复）",
-      "pic": "",
+      "name": "⒃COKEMV影",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "BD有筛选",
@@ -2685,12 +4311,12 @@
       }
     },
     {
-      "name": "⒄9亿看看(无法搜)",
-      "pic": "https://tlgur.com/d/GayM6ONG",
+      "name": "⒄9亿看看",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "清晰1080P/4K最高60帧",
-      "subMobileTitle": "清晰1080P/4K最高60帧",
+      "subMobileTitle": "4K最高60帧",
       "ads": "",
       "webUrl": "http://www.9ekk.com",
       "webOpen": false,
@@ -2847,11 +4473,11 @@
     },
     {
       "name": "⒅奈菲影视",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/neifi.png",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
-      "subMobileTitle": "web-高清快有筛选",
+      "subMobileTitle": "web-高清快",
       "ads": "",
       "webUrl": "https://www.nfmovies.com/",
       "webOpen": true,
@@ -3007,12 +4633,12 @@
     },
 
     {
-      "name": "⒆1090（1.24修）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/1090.png",
+      "name": "⒆1090",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "wpcm修订",
+      "subMobileTitle": "1.24",
       "ads": "",
       "webUrl": "http://1090ys2.com/",
       "webOpen": false,
@@ -3175,12 +4801,12 @@
     
    
     {
-      "name": "⒇1080（wpcm2.22）",
-      "pic": "https://tlgur.com/d/8ekk33Dg",
+      "name": "⒇1080",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
-      "subMobileTitle": "exo-高清有筛选",
+      "subMobileTitle": "1.23",
       "ads": "",
       "webUrl": "https://www.k1080.net/",
       "webOpen": false,
@@ -3337,7 +4963,7 @@
 
     {
       "name": "21-8号影院",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/8h1.png",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BpKH.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -3499,12 +5125,12 @@
 
 
     {
-      "name": "22-素白白（网址播放）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/sbb.png",
+      "name": "22-素白白",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BpKH.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "最低720P(菜单键或上下键选集)",
-      "subMobileTitle": "wpcm修订精简",
+      "subMobileTitle": "验证",
       "ads": "",
         "webUrl": "https://www.subaibai.com",
         "webOpen": true,
@@ -3681,170 +5307,11 @@
       },
 
 
-      {
-        "name": "23-真不卡",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/zbk.png",
-        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
-        "type": "webPlug",
-        "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
-        "subMobileTitle": "exo-高清快有筛选",
-        "ads": "",
-        "webUrl": "https://www.zhenbuka.com/",
-        "webOpen": false,
-        "click": true,
-        "webPlus": {
-          "search_url": "https://www.zhenbuka.com/vodsearch/-------------.html?wd=",
-          "nav_url": "https://www.zhenbuka.com/vodtype/navCate-navPage.html",
-          "cate_url": "https://www.zhenbuka.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-          "web_name": "真不卡影视",
-          "kw": "wd",
-          "params": [
-            {
-              "key": "key",
-              "value": "value"
-            }
-          ],
-          "navHtml": {
-            "name": [
-              "电影",
-              "电视剧",
-              "动漫",
-              "综艺"
-            ],
-            "cate": [
-              "1",
-              "2",
-              "4",
-              "3"
-            ],
-            "page": "1"
-          },
-          "cateHtml": {
-            "isCate": false,
-            "isYear": true,
-            "isArea": true,
-            "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
-            "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
-            "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
-          },
-          "html": {
-            "episodes": {
-              "hasUrlPrefix": false,
-              "isListItemAttr": true,
-              "isReg": false,
-              "isRegNeedDecoder": false,
-              "listCss": "ul > li",
-              "isMultiList": false,
-              "listCssMulti": "",
-              "listItemAttr": "href",
-              "listItemCss": "a",
-              "listItemIndex": 0,
-              "mainCss": "ul.stui-content__playlist.clearfix",
-              "mainIndex": 0,
-              "regIndexList": [
-                0
-              ],
-              "regItemIndex": 0,
-              "regItemStr": "",
-              "regSplitList": [
-                ""
-              ],
-              "regStrList": [
-                ""
-              ]
-            },
-            "nav": {
-              "isKWInUrl": false,
-              "isWebPlay": false,
-              "descAttr": "",
-              "descCss": "span.pic-text.text-right",
-              "descIndex": 0,
-              "hasImgUrlPrefix": true,
-              "hasUrlPrefix": false,
-              "imgAttr": "data-original",
-              "imgCss": "a",
-              "imgIndex": 0,
-              "isDescAttr": false,
-              "isImgAttr": true,
-              "isNameAttr": true,
-              "isUrlAttr": true,
-              "mainCss": "ul.stui-vodlist.clearfix",
-              "mainListIndex": 0,
-              "nameAttr": "title",
-              "nameCss": "a",
-              "nameIndex": 0,
-              "searchListCss": "li",
-              "urlAttr": "href",
-              "urlCss": "a",
-              "urlIndex": 0
-            },
-            "search": {
-              "isKWInUrl": false,
-              "isWebPlay": false,
-              "descAttr": "",
-              "descCss": "span.pic-text.text-right",
-              "descIndex": 0,
-              "hasImgUrlPrefix": true,
-              "hasUrlPrefix": false,
-              "imgAttr": "data-original",
-              "imgCss": "a",
-              "imgIndex": 0,
-              "isDescAttr": false,
-              "isImgAttr": true,
-              "isNameAttr": true,
-              "isUrlAttr": true,
-              "mainCss": "ul.stui-vodlist.clearfix",
-              "mainListIndex": 0,
-              "nameAttr": "title",
-              "nameCss": "a",
-              "nameIndex": 0,
-              "searchListCss": "li",
-              "urlAttr": "href",
-              "urlCss": "a",
-              "urlIndex": 0
-            },
-            "video": {
-              "episodesListCss": "",
-              "episodesMainCss": "",
-              "episodesMainIndex": 0,
-              "hasEpisodes": false,
-              "hasUrlPrefix": false,
-              "iframeAttr": "src",
-              "iframeIndex": 0,
-              "isFrame": true,
-              "isFrameProcess": false,
-              "isItemAttr": false,
-              "isNameAttr": false,
-              "isReg": true,
-              "isUrlAttr": false,
-              "itemAttr": "",
-              "itemCss": "script",
-              "itemIndex": 2,
-              "mainCss": "body",
-              "mainIndex": 0,
-              "nameAttr": "",
-              "nameCss": "",
-              "nameIndex": 0,
-              "regIndex": 0,
-              "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
-              "title": "",
-              "urlAttr": "",
-              "urlCss": "",
-              "urlIndex": 0,
-              "videoCss": "",
-              "videoIndex": 1,
-              "isVideoUrlAttr": true,
-              "videoUrlAttr": "",
-              "isFromWebView": false,
-              "js": ""
-            }
-          }
-        }
-      },
+     
 
       {
         "name": "25－奇侠高清",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/qixia.png",
+        "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
         "type": "webPlug",
         "subTitle": "高清有筛选(菜单键或上下键选集)",
@@ -4004,7 +5471,7 @@
       },
       {
         "name": "26-在线之家",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/zxzjh.png",
+        "pic": "https://s3.ax1x.com/2021/02/28/69BpKH.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
         "type": "webPlug",
         "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -4172,7 +5639,7 @@
       
       {
         "name": "27-乌龟影视",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/wugui.png",
+        "pic": "https://s3.ax1x.com/2021/02/28/69BpKH.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
         "type": "webPlug",
         "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -4332,7 +5799,7 @@
       },
       {
         "name": "28－94神马",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/94sm.png",
+        "pic": "https://s3.ax1x.com/2021/02/28/69BpKH.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
         "type": "webPlug",
         "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -4491,8 +5958,8 @@
         }
       },
       {
-        "name": "29-飞飞（高清）",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/ffys.png",
+        "name": "29-飞飞",
+        "pic": "https://s3.ax1x.com/2021/02/28/69BpKH.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
         "type": "webPlug",
         "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -4657,8 +6124,8 @@
       },
   
       {
-        "name": "30-简影(网址播放)",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/jyh.png",
+        "name": "30-简影",
+        "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
         "type": "webPlug",
         "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
@@ -4820,11 +6287,11 @@
 
     {
       "name": "31-桔子TV",
-      "pic": "https://tlgur.com/d/Gbk3j2yg",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BpKH.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试2.22）质量高",
+      "subMobileTitle": "质量高",
       "ads": "",
       "webUrl": "https://www.juztv.com/",
       "webOpen": false,
@@ -4981,11 +6448,11 @@
     },
     {
       "name": "32-885影视",
-      "pic": "tlgur.com/d/Gbk3j2yg",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BVG8.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试2.25）",
+      "subMobileTitle": "(测试2.25）",
       "ads": "",
       "webUrl": "http://www.885kan.com/",
       "webOpen": false,
@@ -5145,11 +6612,11 @@
 
     {
       "name": "33-阿迪影视",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BVG8.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm测试中1.25）质量高",
+      "subMobileTitle": "质量高",
       "ads": "",
       "webUrl": "https://www.edu-hb.com/",
       "webOpen": false,
@@ -5307,7 +6774,7 @@
 
     {
       "name": "34－欧亚影视",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BVG8.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
@@ -5466,171 +6933,10 @@
       }
     },
 
+   
     {
-      "name": "35-泡饭影视(新增无法搜索)",
-      "pic": "",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
-      "type": "webPlug",
-      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
-      "ads": "",
-      "webUrl": "https://www.paofans.com",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
-        "nav_url": "https://www.paofans.com/show/navCate--------navPage---.html",
-        "cate_url": "https://www.paofans.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "蓝光高清",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "抖音电影",
-            "电影",
-            "电视剧",
-            "综艺",
-            "动漫"
-          ],
-          "cate": [
-            "36",
-            "1",
-            "2",
-            "3",
-            "4"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&动画,动画&&幻想,幻想&&战争,战争&&古装,古装",
-          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
-          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.sort-list.clearfix",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": false,
-            "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 1,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {
-            "episodesListCss": "",
-            "episodesMainCss": "",
-            "episodesMainIndex": 0,
-            "hasEpisodes": false,
-            "hasUrlPrefix": false,
-            "iframeAttr": "src",
-            "iframeIndex": 0,
-            "isFrame": true,
-            "isFrameProcess": false,
-            "isItemAttr": false,
-            "isNameAttr": false,
-            "isReg": true,
-            "isUrlAttr": false,
-            "itemAttr": "",
-            "itemCss": "script",
-            "itemIndex": 2,
-            "mainCss": "body",
-            "mainIndex": 0,
-            "nameAttr": "",
-            "nameCss": "",
-            "nameIndex": 0,
-            "regIndex": 0,
-            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
-            "title": "",
-            "urlAttr": "",
-            "urlCss": "",
-            "urlIndex": 0,
-            "videoCss": "",
-            "videoIndex": 1,
-            "isVideoUrlAttr": true,
-            "videoUrlAttr": "",
-            "isFromWebView": false,
-            "js": ""
-          }
-        }
-      }
-    },
-    {
-      "name": "36-神马高清(超清)",
-      "pic": "",
+      "name": "36-神马高清",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BVG8.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
@@ -5790,12 +7096,12 @@
     },
 
     {
-      "name": "37-观影时光（精简）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/gysg1.png",
+      "name": "37-观影时光",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "wpcm正编辑",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://m.nvzox.com/",
       "webOpen": true,
@@ -5957,8 +7263,8 @@
 
 
     {
-      "name": "38-6V影院（测试Index）",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "name": "38-6V影院",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BVG8.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -6139,7 +7445,7 @@
 
     {
       "name": "39－哆咪动漫",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/midong.jpg",
+      "pic": "https://s3.ax1x.com/2021/02/28/69BVG8.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选",
@@ -6310,12 +7616,12 @@
    
 
     {
-      "name": "南瓜资源(网址播放)",
-      "pic": "",
+      "name": "南瓜资源",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快有筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://www.nangua55.com/",
       "webOpen": true,
@@ -6481,12 +7787,12 @@
     
    
     {
-      "name": "蓝光高清(网址播放)",
-      "pic": "",
+      "name": "蓝光高清",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.hanmiys.com",
       "webOpen": true,
@@ -6642,12 +7948,12 @@
     },
    
     {
-      "name": "西瓜视频(网址播放)",
-      "pic": "",
+      "name": "西瓜视频",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快有筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.ixigua.com/",
       "webOpen": true,
@@ -6811,12 +8117,12 @@
     },
   
     {
-      "name": "团长资源（网址播放）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/tzzyh.png",
+      "name": "团长资源",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
-      "subMobileTitle": "exo-高清快有筛选",
+      "subMobileTitle": "exo-TV专用",
       "ads": "",
         "webUrl": "https://www.tzfile.com",
         "webOpen": true,
@@ -6982,12 +8288,12 @@
 
 
     {
-      "name": "暮光(网址播放)",
-      "pic": "",
+      "name": "暮光",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快有筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.muguangys.xyz",
       "webOpen": true,
@@ -7143,12 +8449,12 @@
    
    
     {
-      "name": "BOWANG播王(网址播放)",
-      "pic": "",
+      "name": "BOWANG播王",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://bowang.tv/",
       "webOpen": true,
@@ -7303,12 +8609,12 @@
       }
     },
     {
-      "name": "嘀哩影视(网址播放)",
-      "pic": "https://tlgur.com/d/8Ko0yjM8",
+      "name": "嘀哩影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://diliktv.com/",
       "webOpen": true,
@@ -7463,12 +8769,12 @@
       }
     },
     {
-      "name": "VIP.SB(网址播放)",
-      "pic": "https://tlgur.com/d/GJa6zKp8",
+      "name": "VIP.SB",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://vip.sb",
       "webOpen": true,
@@ -7624,12 +8930,12 @@
     },
    
     {
-      "name": "555电影(网址播放)",
-      "pic": "https://tlgur.com/d/8Br5eyd8",
+      "name": "555电影",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.o8tv.com/",
       "webOpen": true,
@@ -7784,12 +9090,12 @@
       }
     },
     {
-      "name": "极速影视(网址播放)",
-      "pic": "",
+      "name": "极速影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://www.flvweb.com/",
       "webOpen": true,
@@ -7944,12 +9250,12 @@
       }
     },
     {
-      "name": "长资源(网址播放)",
-      "pic": "",
+      "name": "长资源",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.qianoo.cn/",
       "webOpen": true,
@@ -8104,12 +9410,12 @@
       }
     },
     {
-      "name": "韩影迷(网址播放)",
-      "pic": "",
+      "name": "韩影迷",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://hanmiys.com/",
       "webOpen": true,
@@ -8265,12 +9571,12 @@
     },
    
     {
-      "name": "低端影视(网址播放)",
-      "pic": "",
+      "name": "低端影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://ddrk.me/",
       "webOpen": true,
@@ -8426,12 +9732,12 @@
     },
     
     {
-      "name": "奈飞影视(网址播放）",
-      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/nfx.png",
+      "name": "奈飞影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快有筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.nfstar.net",
       "webOpen": true,
@@ -8597,12 +9903,12 @@
 
 
     {
-      "name": "完美看看(网址播放)",
-      "pic": "",
+      "name": "完美看看",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.wanmeikk.me",
       "webOpen": true,
@@ -8768,12 +10074,12 @@
    
     
       {
-        "name": "独播库(网址播放)",
-        "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/dbkh.png",
+        "name": "独播库",
+        "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
         "type": "webPlug",
         "subTitle": "超高清有筛选先别用",
-        "subMobileTitle": "超高清有筛选先别用",
+        "subMobileTitle": "TV专用",
         "ads": "",
         "webUrl": "https://www.duboku.co",
         "webOpen": true,
@@ -8928,12 +10234,12 @@
       },
     
     {
-      "name": "电玩人高清(网址播放)",
-      "pic": "",
+      "name": "电玩人高清",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://www.ameiju.net",
       "webOpen": true,
@@ -9091,12 +10397,12 @@
       }
     },
     {
-      "name": "NO视频(网址播放)",
-      "pic": "https://tlgur.com/d/G7ooRk6G",
+      "name": "NO视频",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.novipnoad.com/",
       "webOpen": true,
@@ -9254,12 +10560,12 @@
       }
     },
     {
-      "name": "阿房影视(网址播放)",
-      "pic": "https://tlgur.com/d/G7opYzMG",
+      "name": "阿房影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://bwl87.com/",
       "webOpen": true,
@@ -9417,12 +10723,12 @@
       }
     },
     {
-      "name": "醉长生影视(网址播放)",
-      "pic": "",
+      "name": "醉长生影视",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.3zcs.com/",
       "webOpen": true,
@@ -9580,12 +10886,12 @@
       }
     },
     {
-      "name": "捏他(网址播放)",
-      "pic": "",
+      "name": "捏他",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://www.nieta.co/",
       "webOpen": true,
@@ -9743,12 +11049,12 @@
       }
     },
     {
-      "name": "zzzfun小屋(网址播放)",
-      "pic": "",
+      "name": "zzzfun小屋",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://www.zzzfun.com/",
       "webOpen": true,
@@ -9906,12 +11212,12 @@
       }
     },
     {
-      "name": "bimi动漫(网址播放)",
-      "pic": "",
+      "name": "bimi动漫",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://www.bimiacg.com/",
       "webOpen": true,
@@ -10069,12 +11375,12 @@
       }
     },
     {
-      "name": "樱花动漫(网址播放)",
-      "pic": "",
+      "name": "樱花动漫",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.agefans.net/",
       "webOpen": true,
@@ -10236,11 +11542,11 @@
 
     {
       "name": "chaospace影视",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm攻克中1.25）质量高",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.chaospace.fun/",
       "webOpen": true,
@@ -10396,12 +11702,12 @@
       }
     },
     {
-      "name": "TV云播(网址播放)",
-      "pic": "",
+      "name": "TV云播",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.hktvyb.com/",
       "webOpen": true,
@@ -10557,11 +11863,11 @@
     },
     {
       "name": "测试正规站QQ",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://v.qq.com/",
       "webOpen": true,
@@ -10716,11 +12022,11 @@
     },
     {
       "name": "测试正规站YK",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.youku.com/",
       "webOpen": true,
@@ -10875,11 +12181,11 @@
     },
     {
       "name": "测试正规站QY",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.iqiyi.com/",
       "webOpen": true,
@@ -11033,12 +12339,12 @@
       }
     },
     {
-      "name": "哔嘀影视",
-      "pic": "",
+      "name": "哔嘀影视（调）",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm抽空再调2.25）",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://bde4.cc/",
       "webOpen": true,
@@ -11193,11 +12499,11 @@
 
     {
       "name": "美剧虾",
-      "pic": "",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm抽空再调2.25）",
+      "subMobileTitle": "(TV专用）",
       "ads": "",
       "webUrl": "http://www.meijuxia.net/",
       "webOpen": true,
@@ -11367,11 +12673,11 @@
 
     {
       "name": "孤单影院",
-      "pic": "https://tlgur.com/d/8loQEYD4",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm调试中2.23）质量高",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://gudanys.com/",
       "webOpen": true,
@@ -11534,11 +12840,11 @@
 
     {
       "name": "NO视频(不能搜）",
-      "pic": "https://tlgur.com/d/G7ooRk6G",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm调试中2.23）质量高",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.novipnoad.com/",
       "webOpen": true,
@@ -11711,11 +13017,11 @@
 
     {
       "name": "片库",
-      "pic": "https://tlgur.com/d/GWNNvJP8",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm有空再调2.23）质量高",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.pianku.li",
       "webOpen": true,
@@ -11872,12 +13178,12 @@
     },
 
     {
-      "name": "黑白直播(体育）",
-      "pic": "https://tlgur.com/d/g6Yn2vzG",
+      "name": "黑白直播(体）",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm有空再调2.23）",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "https://www.heibaizhibo.com/",
       "webOpen": true,
@@ -12033,12 +13339,12 @@
     },
 
     {
-      "name": "24看球网(体育）",
-      "pic": "https://lgur.com/d/4k7VxV64",
+      "name": "24看球网(体）",
+      "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
-      "subMobileTitle": "(wpcm有空再调2.23）",
+      "subMobileTitle": "TV专用",
       "ads": "",
       "webUrl": "http://24kanqiu.com/",
       "webOpen": true,

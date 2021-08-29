@@ -1,4 +1,3 @@
-
 {
   "data": [
    
@@ -339,7 +338,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://gudanys.com/vodsearch/{kw}-------------.html",
-        "nav_url": "https://vip.sb/index.php/vod/show/id/navCate-navPage.html",
+        "nav_url": "https://vip.sb/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "孤单影院",
         "kw": "wd",
@@ -675,7 +674,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.pianku.li/s/go.php?q={kw}",
-        "nav_url": "https://www.pianku.li/navCa/navPage.html",
+        "nav_url": "https://www.pianku.li/navCate/------navPage.html",
         "cate_url": "https://www.pianku.li/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "片库",
         "kw": "wd",
@@ -912,7 +911,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://nfxhd.com/vodsearch/-------------/?wd={kw}&submit=",
-        "nav_url": "https://nfxhd.com/vodtype/navCate-navPage.html",
+        "nav_url": "https://nfxhd.com/vodtype/navCate-navPage/",
         "cate_url": "",
         "web_name": "奈非",
         "kw": "wd",
@@ -1154,7 +1153,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.4kyu.cc/vodsearch/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.4kyu.cc/vodshow/navCate-navPage.html,
+        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "一只鱼",
         "kw": "wd",

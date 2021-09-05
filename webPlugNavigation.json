@@ -3312,7 +3312,7 @@
             "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
-0            "hasUrlPrefix": false,
+            "hasUrlPrefix": false,
             "imgAttr": "data-original",
             "imgCss": "a",
             "imgIndex": 0,

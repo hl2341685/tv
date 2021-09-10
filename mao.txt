@@ -659,10 +659,10 @@
       "playUrl": ""
     },
     	{
-		"key": "7K(虾米)资源",
-		"name": "7K(虾米)资源",
+		"key": "阿里资源",
+		"name": "阿里资源",
 		"type": 0,
-		"api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
+		"api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},

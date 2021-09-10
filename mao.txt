@@ -104,11 +104,275 @@
 		"playUrl": "https://api.jhdyw.vip/?url=",
 		"categories": []
 	},
-        	    	{
+       		{
+		"key": "男色资源L",
+		"name": "男色资源L",
+		"type": 0,
+		"api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},  
+		{
+		"key": "秀色资源L",
+		"name": "秀色资源L",
+		"type": 0,
+		"api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},  	    	
+			{
 		"key": "品品资源",
 		"name": "品品资源",
 		"type": 0,
 		"api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+			{
+		"key": "辣椒资源L",
+		"name": "辣椒资源L",
+		"type": 0,
+		"api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "010资源L",
+		"name": "010资源L",
+		"type": 0,
+		"api": "http://www.010aizy.com/API/maxs.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+				{
+		"key": "芒果资源L",
+		"name": "芒果资源L",
+		"type": 0,
+		"api": "https://mgzyz1.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+				{
+		"key": "久久资源L",
+		"name": "久久资源L",
+		"type": 0,
+		"api": "https://javcaptain.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "趣播云资源",
+		"name": "趣播云资源",
+		"type": 0,
+		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+				{
+		"key": "小辣椒资源L",
+		"name": "小辣椒资源L",
+		"type": 0,
+		"api": "https://cj.apihjzy.com/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "鲨鱼资源L",
+		"name": "鲨鱼资源L",
+		"type": 0,
+		"api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "苍天资源L",
+		"name": "苍天资源L",
+		"type": 0,
+		"api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/from/ctm3u8/",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "哥哥妹妹资源L",
+		"name": "哥哥妹妹资源L",
+		"type": 0,
+		"api": "http://www.ggmmzy.com:9999/inc/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": " 裸艺资源L",
+		"name": "裸艺资源L",
+		"type": 0,
+		"api": "http://122ap.com/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "抖音资源L",
+		"name": "抖音资源L",
+		"type": 0,
+		"api": "https://www.888dav.com/api.php/provide/vod/at/xml/",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "1024资源L",
+		"name": "1024资源L",
+		"type": 0,
+		"api": "https://www.1024nf.com/api.php/provide/vod/at/xml/",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "佳人资源L",
+		"name": "佳人资源L",
+		"type": 0,
+		"api": "https://www.951c.tk/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "探探资源L",
+		"name": "探探资源L",
+		"type": 0,
+		"api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "LSB资源L",
+		"name": "LSB资源L",
+		"type": 0,
+		"api": "http://www.shabizy.com:777/inc/sea",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "乐鱼资源L",
+		"name": "乐鱼资源L",
+		"type": 0,
+		"api": "https://www.leyuzyapi.com/inc/seacmsapi.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "优果资源L",
+		"name": "优果资源L",
+		"type": 0,
+		"api": "https://www.ugvapi.com/inc/zyapimac.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "七七资源L",
+		"name": "七七资源L",
+		"type": 0,
+		"api": "https://www.77zy.vip/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "800188188资源L",
+		"name": "800188188资源L",
+		"type": 0,
+		"api": "http://www.800188188.com/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "利来资源L",
+		"name": "利来资源L",
+		"type": 0,
+		"api": "http://llzxcj.com/inc/sck.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "麻豆资源L",
+		"name": "麻豆资源L",
+		"type": 0,
+		"api": "http://emodao.la/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "环亚资源L",
+		"name": "环亚资源L",
+		"type": 0,
+		"api": "http://wmcj8.com/inc/sapi.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "字幕网资源L",
+		"name": "字幕网资源L",
+		"type": 0,
+		"api": "http://zmcj88.com/sapi",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "富二代资源L",
+		"name": "富二代资源L",
+		"type": 0,
+		"api": "http://f2dcj6.com/sapi",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "佳丽资源L",
+		"name": "佳丽资源L",
+		"type": 0,
+		"api": "https://api.jialiapi.com/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+			{
+		"key": "柚萌资源L",
+		"name": "柚萌资源L",
+		"type": 0,
+		"api": "https://nameweb.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "大波妹资源L",
+		"name": "大波妹资源L",
+		"type": 0,
+		"api": "http://4000zy.com/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+	{
+		"key": "九号资源L",
+		"name": "九号资源L",
+		"type": 0,
+		"api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+				{
+		"key": "痴汉资源L",
+		"name": "痴汉资源L",
+		"type": 0,
+		"api": "https://javcaptain.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+			{
+		"key": "百度伦理资源",
+		"name": "百度伦理资源",
+		"type": 0,
+		"api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "色色资源",
+		"name": "色色资源",
+		"type": 0,
+		"api": "http://m.7777688.com/inc/api.php",
 		"playUrl": "https://api.jhdyw.vip/?url=",
 		"categories": []
 	},
@@ -136,7 +400,15 @@
 		"playUrl": "https://api.jhdyw.vip/?url=",
 		"categories": []
 	}, 
-				{
+		{
+		"key": "BB资源L",
+		"name": "BB资源L",
+		"type": 0,
+		"api": "http://bbzy.cc/inc/maccms10.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	}, 
+	{
 		"key": "丝袜资源L",
 		"name": "丝袜资源L",
 		"type": 0,

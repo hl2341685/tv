@@ -108,7 +108,7 @@
 		"key": "男色资源L",
 		"name": "男色资源L",
 		"type": 0,
-		"api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
+		"api": "http://nen13.space/api.php/provide/vod/at/xml",
 		"playUrl": "https://api.jhdyw.vip/?url=",
 		"categories": []
 	},  

@@ -163,11 +163,10 @@
 	 {
       "key": "极品资源",
       "name": "极品资源",
-      "type": 1,
+      "type": 0,
       "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-      
+      "playUrl": "https://api.jhdyw.vip/?url=",
+      "categories": []   
     },
     {
       "key": "好好资源",

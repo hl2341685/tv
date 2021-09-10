@@ -104,7 +104,15 @@
 		"playUrl": "https://api.jhdyw.vip/?url=",
 		"categories": []
 	},
-        	{
+        	    	{
+		"key": "品品资源",
+		"name": "品品资源",
+		"type": 0,
+		"api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+		{
 		"key": "小小资源",
 		"name": "小小资源",
 		"type": 0,

@@ -644,7 +644,14 @@
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
       "playUrl": ""
     },
-       {
+         {
+      "key": "09麻豆影视",
+      "name": "09麻豆影视",
+      "type": 0,
+      "api": "http://emodao.la/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+      {
       "key": "09蓝光影视",
       "name": "09蓝光影视",
       "type": 0,

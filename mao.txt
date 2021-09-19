@@ -161,6 +161,22 @@
 		"categories": []
 	},
 	{
+		"key": "看看屋资源",
+		"name": "看看屋资源",
+		"type": 0,
+		"api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+	{
+		"key": "黑峰资源",
+		"name": "黑峰资源",
+		"type": 0,
+		"api": "https://www.hfys8.vip/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+	{
 		"key": "趣播云资源",
 		"name": "趣播云资源",
 		"type": 0,

@@ -169,6 +169,38 @@
 		"categories": []
 	},
 	{
+		"key": "佳人资源L",
+		"name": "佳人资源L",
+		"type": 0,
+		"api": "https://www.951c.tk/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "草嫩逼资源L",
+		"name": "草嫩逼资源L",
+		"type": 0,
+		"api": "http://www.njxinli.com/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "痴汉资源L",
+		"name": "痴汉资源L",
+		"type": 0,
+		"api": "https://javcaptain.com/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "EU资源L",
+		"name": "EU资源L",
+		"type": 0,
+		"api": "https://euzy9.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
 		"key": "艾旦资源",
 		"name": "艾旦资源",
 		"type": 0,

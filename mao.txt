@@ -161,6 +161,22 @@
 		"categories": []
 	},
 	{
+		"key": "爬虫资源",
+		"name": "爬虫资源",
+		"type": 0,
+		"api": "http://zy.itono.cn/inc/api.php",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+	{
+		"key": "私人资源",
+		"name": "私人资源",
+		"type": 0,
+		"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},	
+	{
 		"key": "看看屋资源",
 		"name": "看看屋资源",
 		"type": 0,

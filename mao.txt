@@ -161,6 +161,22 @@
 		"categories": []
 	},
 	{
+		"key": "灵芝资源",
+		"name": "灵芝资源",
+		"type": 0,
+		"api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
+		"key": "艾旦资源",
+		"name": "艾旦资源",
+		"type": 0,
+		"api": "https://www.lovedan.net/api.php/provide/vod/at/xml/",
+		"playUrl": "https://api.jhdyw.vip/?url=",
+		"categories": []
+	},
+	{
 		"key": "爬虫资源",
 		"name": "爬虫资源",
 		"type": 0,

@@ -83,8 +83,7 @@ CJT影视,https://www.cjt521.com/api.php/provide/vod/at/xml,不解析
 好好资源,http://haohaozy.com/api.php/provide/vod/at/xml/,不解析
 阿里影院,http://www.feishi.ltd/api.php/provide/vod/at/xml,不解析
 就爱资源,http://www.92aizy.com/api/macs.php,不解析
-大头,https://api.jhdyw.vip/?url=
-解析1,https://jf.4z.cm/jx/?url=
+解析1,https://api.jhdyw.vip/?url=
 Parwix不解析,https://vip.parwix.com:4433/player/?url=
 虾米,https://jx.xmflv.com/?url=
 结束

@@ -9,7 +9,7 @@ u猫,http://umao.ml/api.php/provide/vod/at/xml,解析
 安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
 佳人影院L,https://jialiapi.com/api.php/provide/vod/at/xml/,解析
 佳人资源L,https://www.951c.tk/api.php/provide/vod/at/xml/,解析
-EU资源L，https://euzy9.xyz/api.php/provide/vod/at/xml，解析
+EU资源L,https://euzy9.xyz/api.php/provide/vod/at/xml，解析
 草嫩逼,http://www.njxinli.com/inc/api.php,解析
 痴汉资源，https://javcaptain.com/api.php/provide/vod/at/xml，解析
 艾旦资源,https://www.lovedan.net/api.php/provide/vod/at/xml/,解析
@@ -83,9 +83,6 @@ CJT影视,https://www.cjt521.com/api.php/provide/vod/at/xml,解析
 好好资源,http://haohaozy.com/api.php/provide/vod/at/xml/,解析
 阿里影院,http://www.feishi.ltd/api.php/provide/vod/at/xml,解析
 就爱资源,http://www.92aizy.com/api/macs.php,解析
-
-
-
 解析1,https://api.jhdyw.vip/?url=
 解析2,https://jf.4z.cm/jx/?url=
 Parwix解析,https://vip.parwix.com:4433/player/?url=

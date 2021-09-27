@@ -1269,8 +1269,8 @@
 		"api": "https://cj.taoseapi.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
-	}
- {
+	},
+       {
 		"key": "1717资源",
 		"name": "1717资源",
 		"type": 0,

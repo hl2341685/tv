@@ -1,6 +1,42 @@
 
 {
   "sites": [
+      {
+    "key": "csp_Aidi",
+    "name": "爱迪(爬虫)",
+    "type": 3,
+    "api": "csp_Aidi",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+    },
+     {
+  "key": "csp_EPang",
+  "name": "阿房影视(爬虫)",
+  "type": 3,
+  "api": "csp_EPang",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},    
+    {
+    "key": "csp_Enlienli",
+    "name": "嗯哩嗯哩(爬虫)",
+    "type": 3,
+    "api": "csp_Enlienli",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+    },
+{
+  "key": "csp_Auete",
+  "name": "Auete(爬虫)",
+  "type": 3,
+  "api": "csp_Auete",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
      {
       "key": "afys_spider",
       "name": "阿房影视(原内置)",

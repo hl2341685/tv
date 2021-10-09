@@ -1,30 +1,6 @@
 ###
 {
   "sites": [
-            {
-                "key": "极品资源",
-                "name": "极品资源",
-                "type": 0,
-                "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
-                "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "综艺",
-        "动漫"
-                ]
-    },
     {
     "key": "csp_Aidi",
     "name": "爱迪(爬虫)",
@@ -33,16 +9,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 1
-    },
-     {
-  "key": "csp_EPang",
-  "name": "阿房影视(爬虫)",
-  "type": 3,
-  "api": "csp_EPang",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1
-},    
+    },  
     {
     "key": "csp_Enlienli",
     "name": "嗯哩嗯哩(爬虫)",
@@ -61,101 +28,51 @@
   "quickSearch": 0,
   "filterable": 1
 },
-     {
-      "key": "afys_spider",
-      "name": "阿房影视(原内置)",
-      "type": 2,
-      "api": "7gxke5P9eFZoVV",
-      "playUrl": "",
-      "filterable": 1
-    },
-    {
-      "key": "jpys_spider",
-      "name": "极品影视(原内置)",
-      "type": 2,
-      "api": "xZk2ejNzP8Gape",
-      "playUrl": "",
-      "filterable": 1
-    },
-    {
-      "key": "mgys_spider",
-      "name": "暮光影视(原内置)",
-      "type": 2,
-      "api": "vnEF7qPNzi6C6C",
-      "playUrl": "",
-      "quickSearch": 0
-    },
-    {
-      "key": "ysgc_spider",
-      "name": "影视工厂(原内置)",
-      "type": 2,
-      "api": "XXjMEvL4jg66rQ",
-      "playUrl": "",
-      "quickSearch": 0
-    },
-    {
-      "key": "auete_spider",
-      "name": "Auete影视(原内置)",
-      "type": 2,
-      "api": "eboTY5qAokEemZ",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "adys_spider",
-      "name": "爱迪影视(原内置)",
-      "type": 2,
-      "api": "48YdXbyTkTe55r",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "hgys_spider",
-      "name": "HG影视(原内置)",
-      "type": 2,
-      "api": "wkjskK5hA6Cxr7",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "zjdr_spider",
-      "name": "追剧达人(原内置)",
-      "type": 2,
-      "api": "irB66BwzwhbL4r",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "zjm_spider",
-      "name": "追剧喵(原内置)",
-      "type": 2,
-      "api": "KaxKyHhd9ErA9n",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "xysgc_spider",
-      "name": "新影视工厂(原内置)",
-      "type": 2,
-      "api": "Gy35wr8J2YUrtC",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "kby_spider",
-      "name": "恐怖鸭(原内置)",
-      "type": 2,
-      "api": "ZdZYGB9BcfXR6W",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
+{
+  "key": "csp_Cokemv",
+  "name": "Cokemv(爬虫)",
+  "type": 3,
+  "api": "csp_Cokemv",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+  "key": "csp_Buka",
+  "name": "真不卡(爬虫)",
+  "type": 3,
+  "api": "csp_Buka",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+  "key": "csp_Ysgc",
+  "name": "影视工厂(爬虫)",
+  "type": 3,
+  "api": "csp_Ysgc",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+  "key": "csp_N0ys",
+  "name": "90影视(爬虫)",
+  "type": 3,
+  "api": "csp_N0ys",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0
+},
+{
+  "key": "csp_Ubo",
+  "name": "U播影视(爬虫)",
+  "type": 3,
+  "api": "csp_Ubo",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
         	{
 		"key": "片库",
 		"name": "片库资源",

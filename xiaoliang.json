@@ -10,7 +10,1960 @@
     "quickSearch": 0,
     "filterable": 1
     },
+      {
+      "key": "csp_EPangApp",
+      "name": "阿房影視(爬蟲)",
+      "type": 3,
+      "api": "csp_EPangApp",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
     {
+      "key": "csp_Aidi",
+      "name": "愛迪(爬蟲)",
+      "type": 3,
+      "api": "csp_Aidi",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Auete",
+      "name": "Auete(爬蟲)",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Cokemv",
+      "name": "Cokemv(爬蟲)",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_N0ys",
+      "name": "90影視(爬蟲)",
+      "type": 3,
+      "api": "csp_N0ys",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Djx",
+      "name": "瓜皮TV(爬蟲)",
+      "type": 3,
+      "api": "csp_Djx",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Imaple",
+      "name": "楓林網(爬蟲)",
+      "type": 3,
+      "api": "csp_Imaple",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Jumi",
+      "name": "劇迷(爬蟲)",
+      "type": 3,
+      "api": "csp_Jumi",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "人人迷",
+      "name": "人人迷",
+      "type": 1,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.renrenmi.cc/?url=",
+      "categories": [
+        "動作片",
+        "喜劇片",
+        "愛情片",
+        "科幻片",
+        "劇情片",
+        "戰爭片",
+        "恐怖片",
+        "國產劇",
+        "港臺劇",
+        "日韓劇",
+        "歐美劇",
+        "其他劇",
+        "綜藝",
+        "動漫"
+      ]
+    },
+    {
+      "key": "喵派對藍光",
+      "name": "喵派對藍光",
+      "type": 0,
+      "api": "https://www.neenl.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "key": "csp_xpath_94sm",
+      "name": "94神馬(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
+    },
+    {
+      "key": "csp_xpath_jpys",
+      "name": "極品影視(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+    },
+    {
+      "key": "csp_xpath_age",
+      "name": "AGE動漫(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
+    },
+    {
+      "key": "csp_xpath_jpyszl",
+      "name": "極品直鏈(XPath)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+    },
+    {
+      "key": "csp_xpath_tvci",
+      "name": "大師兄(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+    },
+    {
+      "key": "csp_xpath_duboku",
+      "name": "獨播庫(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
+    },
+    {
+      "key": "csp_xpath_saohuotv",
+      "name": "騷火電影(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+    },
+    {
+      "key": "csp_xpath_dm84",
+      "name": "動漫巴士(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
+    },
+    {
+      "key": "csp_xpath_egg",
+      "name": "蛋蛋影院(XPath)",
+      "type": 3,
+      "api": "csp_XPathEgg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+    },
+    {
+      "key": "csp_yysdali",
+      "name": "YYDS影視(XPath)",
+      "type": 3,
+      "api": "csp_YydsAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+    },
+    {
+      "key": "csp_xpath_sky4k",
+      "name": "天空4K(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/sky4k.json"
+    },
+    {
+      "key": "csp_xpath_4kyu",
+      "name": "一隻魚4K(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/4kyu.json"
+    },
+    {
+      "key": "csp_xpath_miniku",
+      "name": "Miniku(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/miniku.json"
+    },
+    {
+      "key": "csp_xpath_pianba",
+      "name": "Pianba(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/pianba.json"
+    },
+
+    {
+      "key": "csp_appys_xiaogui_007影視",
+      "name": "007影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_007影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_555電影",
+      "name": "555電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_555電影"
+    },
+    {
+      "key": "csp_appys_xiaogui_5060影院",
+      "name": "5060影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_5060影院"
+    },
+    {
+      "key": "csp_appys_xiaogui_913e影視",
+      "name": "913e影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_913e影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_BD電影",
+      "name": "BD電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_BD電影"
+    },
+    {
+      "key": "csp_appys_xiaogui_COKEMV",
+      "name": "COKEMV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_COKEMV"
+    },
+    {
+      "key": "csp_appys_xiaogui_one影視",
+      "name": "one影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_one影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_愛尚影視",
+      "name": "愛尚影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_愛尚影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_愛影吧",
+      "name": "愛影吧(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_愛影吧"
+    },
+    {
+      "key": "csp_appys_xiaogui_播放呀",
+      "name": "播放呀(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_播放呀"
+    },
+    {
+      "key": "csp_appys_xiaogui_暢視影視",
+      "name": "暢視影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_暢視影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_迪迪影院",
+      "name": "迪迪影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_迪迪影院"
+    },
+    {
+      "key": "csp_appys_xiaogui_嘀哩嘀哩",
+      "name": "嘀哩嘀哩(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_嘀哩嘀哩"
+    },
+    {
+      "key": "csp_appys_xiaogui_毒舌電影",
+      "name": "毒舌電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_毒舌電影"
+    },
+    {
+      "key": "csp_appys_xiaogui_飯糰影院",
+      "name": "飯糰影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_飯糰影院"
+    },
+    {
+      "key": "csp_appys_xiaogui_大師兄",
+      "name": "大師兄(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_大師兄"
+    },
+    {
+      "key": "csp_appys_xiaogui_段友影視",
+      "name": "段友影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_段友影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_瓜皮TV",
+      "name": "瓜皮TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_瓜皮TV"
+    },
+    {
+      "key": "csp_appys_xiaogui_海膽影視",
+      "name": "海膽影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_海膽影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_火箭影視",
+      "name": "火箭影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_火箭影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_海綿影視",
+      "name": "海綿影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_海綿影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_海棠視訊",
+      "name": "海棠視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_海棠視訊"
+    },
+    {
+      "key": "csp_appys_xiaogui_京廣航",
+      "name": "京廣航(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_京廣航"
+    },
+    {
+      "key": "csp_appys_xiaogui_九合視訊",
+      "name": "九合視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_九合視訊"
+    },
+    {
+      "key": "csp_appys_xiaogui_久九影視",
+      "name": "久九影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_久九影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_藍果影視",
+      "name": "藍果影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_藍果影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_琳瑯影視",
+      "name": "琳瑯影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_琳瑯影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_極樂閣",
+      "name": "極樂閣(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_極樂閣"
+    },
+    {
+      "key": "csp_appys_xiaogui_抹茶豬",
+      "name": "抹茶豬(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_抹茶豬"
+    },
+    {
+      "key": "csp_appys_xiaogui_萌蛋蛋",
+      "name": "萌蛋蛋(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_萌蛋蛋"
+    },
+    {
+      "key": "csp_appys_xiaogui_迷你庫",
+      "name": "迷你庫(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_迷你庫"
+    },
+    {
+      "key": "csp_appys_xiaogui_思古影視",
+      "name": "思古影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_思古影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_雙十電影",
+      "name": "雙十電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_雙十電影"
+    },
+    {
+      "key": "csp_appys_xiaogui_天方影視",
+      "name": "天方影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_天方影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_天空影視",
+      "name": "天空影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_天空影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_糖果影視",
+      "name": "糖果影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_糖果影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_污妖動漫",
+      "name": "污妖動漫(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_污妖動漫"
+    },
+    {
+      "key": "csp_appys_xiaogui_小龜視訊",
+      "name": "小龜視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_小龜視訊"
+    },
+    {
+      "key": "csp_appys_xiaogui_星空影視",
+      "name": "星空影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_星空影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_雪人影視",
+      "name": "雪人影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_雪人影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_小易影視",
+      "name": "小易影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_小易影視"
+    },
+    {
+      "key": "csp_appys_xiaogui_影視工場",
+      "name": "影視工場(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_影視工場"
+    },
+    {
+      "key": "csp_appys_xiaogui_追劇達人",
+      "name": "追劇達人(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_追劇達人"
+    },
+    {
+      "key": "csp_appys_v1_80影視",
+      "name": "80影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_80影視"
+    },
+    {
+      "key": "csp_appys_v1_80K影視",
+      "name": "80K影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_80K影視"
+    },
+    {
+      "key": "csp_appys_v1_CJT影院",
+      "name": "CJT影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_CJT影院"
+    },
+    {
+      "key": "csp_appys_v1_HG影視",
+      "name": "HG影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_HG影視"
+    },
+    {
+      "key": "csp_appys_v1_U5影視",
+      "name": "U5影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_U5影視"
+    },
+    {
+      "key": "csp_appys_v1_VIP影視",
+      "name": "VIP影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_VIP影視"
+    },
+    {
+      "key": "csp_appys_v1_愛影視",
+      "name": "愛影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_愛影視"
+    },
+    {
+      "key": "csp_appys_v1_艾特影視",
+      "name": "艾特影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_艾特影視"
+    },
+    {
+      "key": "csp_appys_v1_阿姨追劇",
+      "name": "阿姨追劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_阿姨追劇"
+    },
+    {
+      "key": "csp_appys_v1_白菜追劇",
+      "name": "白菜追劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_白菜追劇"
+    },
+    {
+      "key": "csp_appys_v1_比鄰影視",
+      "name": "比鄰影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_比鄰影視"
+    },
+    {
+      "key": "csp_appys_v1_百訊視訊",
+      "name": "百訊視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_百訊視訊"
+    },
+    {
+      "key": "csp_appys_v1_滄海影視",
+      "name": "滄海影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_滄海影視"
+    },
+    {
+      "key": "csp_appys_v1_菜鳥動漫",
+      "name": "菜鳥動漫(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_菜鳥動漫"
+    },
+    {
+      "key": "csp_appys_v1_暢優視界",
+      "name": "暢優視界(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_暢優視界"
+    },
+    {
+      "key": "csp_appys_v1_初心影視",
+      "name": "初心影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_初心影視"
+    },
+    {
+      "key": "csp_appys_v1_多多影視",
+      "name": "多多影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_多多影視"
+    },
+    {
+      "key": "csp_appys_v1_大海影視",
+      "name": "大海影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_大海影視"
+    },
+    {
+      "key": "csp_appys_v1_東南影院",
+      "name": "東南影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_東南影院"
+    },
+    {
+      "key": "csp_appys_v1_大熊追劇",
+      "name": "大熊追劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_大熊追劇"
+    },
+    {
+      "key": "csp_appys_v1_段友影視",
+      "name": "段友影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_段友影視"
+    },
+    {
+      "key": "csp_appys_v1_蝶眾影院",
+      "name": "蝶眾影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_蝶眾影院"
+    },
+    {
+      "key": "csp_appys_v1_二狗電影",
+      "name": "二狗電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_二狗電影"
+    },
+    {
+      "key": "csp_appys_v1_飯後電影",
+      "name": "飯後電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_飯後電影"
+    },
+    {
+      "key": "csp_appys_v1_飛捷影視",
+      "name": "飛捷影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_飛捷影視"
+    },
+    {
+      "key": "csp_appys_v1_瘋狂看",
+      "name": "瘋狂看(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_瘋狂看"
+    },
+    {
+      "key": "csp_appys_v1_公主影視",
+      "name": "公主影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_公主影視"
+    },
+    {
+      "key": "csp_appys_v1_輝哥影視",
+      "name": "輝哥影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_輝哥影視"
+    },
+    {
+      "key": "csp_appys_v1_黃河影視",
+      "name": "黃河影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_黃河影視"
+    },
+    {
+      "key": "csp_appys_v1_哈尼視訊",
+      "name": "哈尼視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_哈尼視訊"
+    },
+    {
+      "key": "csp_appys_v1_紅兔視訊",
+      "name": "紅兔視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_紅兔視訊"
+    },
+    {
+      "key": "csp_appys_v1_盒子影院",
+      "name": "盒子影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_盒子影院"
+    },
+    {
+      "key": "csp_appys_v1_筋斗雲",
+      "name": "筋斗雲(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_筋斗雲"
+    },
+    {
+      "key": "csp_appys_v1_極簡影視",
+      "name": "極簡影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_極簡影視"
+    },
+    {
+      "key": "csp_appys_v1_久久追劇",
+      "name": "久久追劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_久久追劇"
+    },
+    {
+      "key": "csp_appys_v1_劇迷視訊",
+      "name": "劇迷視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_劇迷視訊"
+    },
+    {
+      "key": "csp_appys_v1_橘子影視",
+      "name": "橘子影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_橘子影視"
+    },
+    {
+      "key": "csp_appys_v1_看劇吧",
+      "name": "看劇吧(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_看劇吧"
+    },
+    {
+      "key": "csp_appys_v1_闊賊影院",
+      "name": "闊賊影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_闊賊影院"
+    },
+    {
+      "key": "csp_appys_v1_藍光視訊",
+      "name": "藍光視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_藍光視訊"
+    },
+    {
+      "key": "csp_appys_v1_林谷影視",
+      "name": "林谷影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_林谷影視"
+    },
+    {
+      "key": "csp_appys_v1_綠箭影視",
+      "name": "綠箭影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_綠箭影視"
+    },
+    {
+      "key": "csp_appys_v1_樂看視訊",
+      "name": "樂看視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_樂看視訊"
+    },
+    {
+      "key": "csp_appys_v1_藍貓影視",
+      "name": "藍貓影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_藍貓影視"
+    },
+    {
+      "key": "csp_appys_v1_冷視TV",
+      "name": "冷視TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_冷視TV"
+    },
+    {
+      "key": "csp_appys_v1_木白影視",
+      "name": "木白影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_木白影視"
+    },
+    {
+      "key": "csp_appys_v1_麻瓜視訊",
+      "name": "麻瓜視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_麻瓜視訊"
+    },
+    {
+      "key": "csp_appys_v1_麻騰TV",
+      "name": "麻騰TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_麻騰TV"
+    },
+    {
+      "key": "csp_appys_v1_喵樂影視",
+      "name": "喵樂影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_喵樂影視"
+    },
+    {
+      "key": "csp_appys_v1_命運影視",
+      "name": "命運影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_命運影視"
+    },
+    {
+      "key": "csp_appys_v1_喵影影視",
+      "name": "喵影影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_喵影影視"
+    },
+    {
+      "key": "csp_appys_v1_木子電影",
+      "name": "木子電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_木子電影"
+    },
+    {
+      "key": "csp_appys_v1_麻子追劇",
+      "name": "麻子追劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_麻子追劇"
+    },
+    {
+      "key": "csp_appys_v1_南府追劇",
+      "name": "南府追劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_南府追劇"
+    },
+    {
+      "key": "csp_appys_v1_南府影視",
+      "name": "南府影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_南府影視"
+    },
+    {
+      "key": "csp_appys_v1_暖光影視",
+      "name": "暖光影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_暖光影視"
+    },
+    {
+      "key": "csp_appys_v1_美劇蟲",
+      "name": "美劇蟲(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_美劇蟲"
+    },
+    {
+      "key": "csp_appys_v1_內涵影視",
+      "name": "內涵影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_內涵影視"
+    },
+    {
+      "key": "csp_appys_v1_檸檬影視",
+      "name": "檸檬影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_檸檬影視"
+    },
+    {
+      "key": "csp_appys_v1_皮影視",
+      "name": "皮影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_皮影視"
+    },
+    {
+      "key": "csp_appys_v1_奇趣影視",
+      "name": "奇趣影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_奇趣影視"
+    },
+    {
+      "key": "csp_appys_v1_騎士影院",
+      "name": "騎士影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_騎士影院"
+    },
+    {
+      "key": "csp_appys_v1_人人動漫",
+      "name": "人人動漫(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_人人動漫"
+    },
+    {
+      "key": "csp_appys_v1_神馬影視",
+      "name": "神馬影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_神馬影視"
+    },
+    {
+      "key": "csp_appys_v1_視聽星球",
+      "name": "視聽星球(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_視聽星球"
+    },
+    {
+      "key": "csp_appys_v1_手指影視",
+      "name": "手指影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_手指影視"
+    },
+    {
+      "key": "csp_appys_v1_淘劇社",
+      "name": "淘劇社(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_淘劇社"
+    },
+    {
+      "key": "csp_appys_v1_天天影視",
+      "name": "天天影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_天天影視"
+    },
+    {
+      "key": "csp_appys_v1_團夕影院",
+      "name": "團夕影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_團夕影院"
+    },
+    {
+      "key": "csp_appys_v1_兔子窩",
+      "name": "兔子窩(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_兔子窩"
+    },
+    {
+      "key": "csp_appys_v1_我愛電影",
+      "name": "我愛電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_我愛電影"
+    },
+    {
+      "key": "csp_appys_v1_我愛跟劇",
+      "name": "我愛跟劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_我愛跟劇"
+    },
+    {
+      "key": "csp_appys_v1_吾愛影視",
+      "name": "吾愛影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_吾愛影視"
+    },
+    {
+      "key": "csp_appys_v1_蝸牛看鴨",
+      "name": "蝸牛看鴨(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_蝸牛看鴨"
+    },
+    {
+      "key": "csp_appys_v1_忘憂果TV",
+      "name": "忘憂果TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_忘憂果TV"
+    },
+    {
+      "key": "csp_appys_v1_漁漁影視",
+      "name": "漁漁影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_漁漁影視"
+    },
+    {
+      "key": "csp_appys_v1_小城影視",
+      "name": "小城影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_小城影視"
+    },
+    {
+      "key": "csp_appys_v1_先鋒視訊",
+      "name": "先鋒視訊(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_先鋒視訊"
+    },
+    {
+      "key": "csp_appys_v1_小極影視",
+      "name": "小極影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_小極影視"
+    },
+    {
+      "key": "csp_appys_v1_星空影視",
+      "name": "星空影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_星空影視"
+    },
+    {
+      "key": "csp_appys_v1_璽娜影視",
+      "name": "璽娜影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_璽娜影視"
+    },
+    {
+      "key": "csp_appys_v1_小蜻蜓",
+      "name": "小蜻蜓(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_小蜻蜓"
+    },
+    {
+      "key": "csp_appys_v1_休閑影視",
+      "name": "休閑影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_休閑影視"
+    },
+    {
+      "key": "csp_appys_v1_星影相隨",
+      "name": "星影相隨(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_星影相隨"
+    },
+    {
+      "key": "csp_appys_v1_小易影視",
+      "name": "小易影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_小易影視"
+    },
+    {
+      "key": "csp_appys_v1_益達影院",
+      "name": "益達影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_益達影院"
+    },
+    {
+      "key": "csp_appys_v1_元芳影視",
+      "name": "元芳影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_元芳影視"
+    },
+    {
+      "key": "csp_appys_v1_雨果影視",
+      "name": "雨果影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_雨果影視"
+    },
+    {
+      "key": "csp_appys_v1_穎家影院",
+      "name": "穎家影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_穎家影院"
+    },
+    {
+      "key": "csp_appys_v1_月亮影視",
+      "name": "月亮影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_月亮影視"
+    },
+    {
+      "key": "csp_appys_v1_影視熱劇",
+      "name": "影視熱劇(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_影視熱劇"
+    },
+    {
+      "key": "csp_appys_v1_楊桃影視",
+      "name": "楊桃影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_楊桃影視"
+    },
+    {
+      "key": "csp_appys_v1_月色影視",
+      "name": "月色影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_月色影視"
+    },
+    {
+      "key": "csp_appys_v1_影閱閣",
+      "name": "影閱閣(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_影閱閣"
+    },
+    {
+      "key": "csp_appys_v1_優全影視",
+      "name": "優全影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_優全影視"
+    },
+    {
+      "key": "csp_appys_v1_優優影院",
+      "name": "優優影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_優優影院"
+    },
+    {
+      "key": "csp_appys_v1_一隻魚",
+      "name": "一隻魚(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_一隻魚"
+    },
+    {
+      "key": "csp_appys_v1_追番貓",
+      "name": "追番貓(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_追番貓"
+    },
+    {
+      "key": "csp_appys_v1_追劇吧",
+      "name": "追劇吧(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_追劇吧"
+    },
+    {
+      "key": "csp_appys_v1_追劇影院",
+      "name": "追劇影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_追劇影院"
+    },
+    {
+      "key": "csp_appys_v1_宅男影院",
+      "name": "宅男影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_宅男影院"
+    },
+    {
+      "key": "csp_appys_v1_偵探影視",
+      "name": "偵探影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_偵探影視"
+    },
+    {
+      "key": "csp_appys_v1_追影兔",
+      "name": "追影兔(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_追影兔"
+    },
+    {
+      "key": "csp_appys_v1_豬豬影院",
+      "name": "豬豬影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "v1_豬豬影院"
+    },
+    {
+      "key": "csp_appys_gctv_555TV",
+      "name": "555TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "gctv_555TV"
+    },
+    {
+      "key": "csp_appys_gctv_紅牛影視",
+      "name": "紅牛影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "gctv_紅牛影視"
+    },
+    {
+      "key": "csp_appys_iptv_2號幣",
+      "name": "2號幣(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_2號幣"
+    },
+    {
+      "key": "csp_appys_iptv_HG影視",
+      "name": "HG影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_HG影視"
+    },
+    {
+      "key": "csp_appys_iptv_傲視影院",
+      "name": "傲視影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_傲視影院"
+    },
+    {
+      "key": "csp_appys_iptv_塵梓TV",
+      "name": "塵梓TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_塵梓TV"
+    },
+    {
+      "key": "csp_appys_iptv_稻草人TV",
+      "name": "稻草人TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_稻草人TV"
+    },
+    {
+      "key": "csp_appys_iptv_嘀哩嘀哩",
+      "name": "嘀哩嘀哩(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_嘀哩嘀哩"
+    },
+    {
+      "key": "csp_appys_iptv_動力影視",
+      "name": "動力影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_動力影視"
+    },
+    {
+      "key": "csp_appys_iptv_大師兄",
+      "name": "大師兄(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_大師兄"
+    },
+    {
+      "key": "csp_appys_iptv_瘋狂看TV",
+      "name": "瘋狂看TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_瘋狂看TV"
+    },
+    {
+      "key": "csp_appys_iptv_火箭影視",
+      "name": "火箭影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_火箭影視"
+    },
+    {
+      "key": "csp_appys_iptv_黑龍影視",
+      "name": "黑龍影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_黑龍影視"
+    },
+    {
+      "key": "csp_appys_iptv_紅牛TV",
+      "name": "紅牛TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_紅牛TV"
+    },
+    {
+      "key": "csp_appys_iptv_核桃影視",
+      "name": "核桃影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_核桃影視"
+    },
+    {
+      "key": "csp_appys_iptv_聚多影視",
+      "name": "聚多影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_聚多影視"
+    },
+    {
+      "key": "csp_appys_iptv_久久影院",
+      "name": "久久影院(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_久久影院"
+    },
+    {
+      "key": "csp_appys_iptv_流星雨",
+      "name": "流星雨(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_流星雨"
+    },
+    {
+      "key": "csp_appys_iptv_冷月TV",
+      "name": "冷月TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_冷月TV"
+    },
+    {
+      "key": "csp_appys_iptv_雙子星",
+      "name": "雙子星(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_雙子星"
+    },
+    {
+      "key": "csp_appys_iptv_云播影視",
+      "name": "云播影視(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_云播影視"
+    },
+    {
+      "key": "csp_appys_iptv_影酷TV",
+      "name": "影酷TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_影酷TV"
+    },
+    {
+      "key": "csp_appys_iptv_樂酷TV",
+      "name": "樂酷TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_樂酷TV"
+    },
+    {
+      "key": "csp_appys_iptv_小極TV",
+      "name": "小極TV(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "iptv_小極TV"
+    },
+ {
     "key": "csp_Aidi",
     "name": "爱迪(爬虫)",
     "type": 3,
@@ -4253,7 +6206,8 @@
     "name": "Json轮询",
     "type": 2,
     "url": "Sequence"
-  } 
+  }
+ 
 ],
   "lives": [
     {

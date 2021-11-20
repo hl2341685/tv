@@ -10,7 +10,15 @@
     "quickSearch": 0,
     "filterable": 1
     },
-      {
+     {
+    "key":"csp_YydsAli1",
+      "name":"@YYDS阿里(爬虫)",
+      "type":3,
+      "api":"csp_YydsAli1",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":0
+    },
       "key": "csp_EPangApp",
       "name": "阿房影視(爬蟲)",
       "type": 3,

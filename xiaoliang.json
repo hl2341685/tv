@@ -10,7 +10,13 @@
     "quickSearch": 0,
     "filterable": 1
     },
-   {
+  {"key":"2345_spider","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"},
+{"key":"rrm_spider","name":"人人迷(免解)","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
+
+
+{"key":"nfzjm_spider","name":"南府追剧(AT)","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"zjdr_spider","name":"追剧达人(V0)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+	  {
     "key":"csp_YydsAli1",
       "name":"@YYDS阿里(爬虫)",
       "type":3,

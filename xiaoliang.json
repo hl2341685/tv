@@ -563,7 +563,7 @@
 {"key":"玖","name":"玖","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"桃","name":"桃","type":1,"api":"https://api.taoseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"秀","name":"秀","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-/*{"key":"*CK资源(VPN)","name":"*CK资源(VPN)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},*/
+{"key":"*CK资源(VPN)","name":"*CK资源(VPN)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key": "*X8资源","name": "*X8资源","type": 0,"api": "https://www.x8x8-vip-2.ru/api.php/provide/vod/at/xml"},
 {"key": "*晓峰影视","name": "*晓峰影视","type": 0,"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml"},
 {"key": "*5X资源","name": "*5X资源","type": 0,"api": "http://0413.api.cdn.5api123.com/api.php"},

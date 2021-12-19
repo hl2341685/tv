@@ -536,7 +536,7 @@
 {"key":"csp_appys_iptv_影酷TV", "name":"影酷TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_影酷TV"},
 {"key":"csp_appys_iptv_乐酷TV", "name":"乐酷TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_乐酷TV"},
 {"key":"csp_appys_iptv_小极TV", "name":"小极TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_小极TV"}
- ],,
+,
 
 {"key": "*小姐姐资源","name": "-=↓CHR↓=-","type": 0,"api": "https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
 {"key":"环","name":"*环","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},

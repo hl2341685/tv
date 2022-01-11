@@ -657,10 +657,7 @@
             "ads":"",
             "webUrl":"https://egame.qq.com/livelist?layoutid=2000000110",
             "webOpen":true,
-            "click":true
-         }
-        }
-      }
+            "click":true 
     },
 {
       "name": "桔子TV",
